@@ -1,0 +1,70 @@
+﻿<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>InterWiki | sowaka archive</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1><a href="../index.html">sowaka archive</a></h1>
+      <p>Static archive converted from legacy PukiWiki</p>
+    </div>
+  </header>
+  <main class="wrap"><article>
+<h2>InterWiki</h2>
+<h1>InterWiki</h1>
+<p>InterWiki は、<a href="pages/50756b6957696b69.html">PukiWiki</a> と 他のサーバーを接続する機能です。</p>
+
+<p><a href="pages/496e74657257696b694e616d65.html">InterWikiName</a> のページでサーバー名を定義しています。</p>
+
+
+<h2><a href="pages/496e74657257696b69.html">InterWiki</a>へのアクセス(InterWikiNameの生成)</h2>
+<p>サーバリストにある サーバ名:WikiName を<a href="pages/427261636b65744e616d65.html">BracketName</a>で作れば<a href="pages/496e74657257696b694e616d65.html">InterWikiName</a>の完成。</p>
+<p>これをページに記述すれば、そのサーバの<a href="pages/57696b694e616d65.html">WikiName</a>へのハイパーリンクが生成されます。</p>
+
+<p> サーバ名:WikiName</p>
+<p> pukiwiki:FrontPage</p>
+
+<h2>サーバーリストへの追加</h2>
+<p><a href="pages/496e74657257696b694e616d65.html">InterWikiName</a> のページに以下のようにサーバの定義をすることで</p>
+<p>サーバーリストに追加することができます。</p>
+
+<p> [URL サーバ名] タイプ</p>
+<p> [<a href="http://pukiwiki.sourceforge.jp/index.php">http://pukiwiki.sourceforge.jp/index.php</a> pukiwiki] utf8</p>
+
+<h2>WikiNameの挿入位置</h2>
+<p>要求しようとするURLへの<a href="pages/57696b694e616d65.html">WikiName</a>の挿入位置を $1 で指定することができます。省略するとお尻にくっつきます。</p>
+
+<p> -[<a href="http://pukiwiki.sourceforge.jp/index.php?cmd=backup&amp;page=$1&amp;age=1">http://pukiwiki.sourceforge.jp/index.php?cmd=backup&amp;page=$1&amp;age=1</a> pukiwiki] utf8</p>
+
+<h2>文字コード変換タイプ</h2>
+
+<p><a href="pages/50756b6957696b69.html">PukiWiki</a>内のページ以外にも飛ばせます。日本語をURLに含む可能性もあるのでその場合のエンコーディングの指定をタイプとして指定できます。</p>
+
+<p> -[<a href="http://pukiwiki.sourceforge.jp/index.php?cmd=read&amp;page=$1">http://pukiwiki.sourceforge.jp/index.php?cmd=read&amp;page=$1</a> somewhere] utf8</p>
+
+<p>:std 省略時|内部文字エンコーディング(標準はSJIS)のままURLエンコードします。</p>
+<p>:raw asis|URLエンコードしないでそのまま使用。</p>
+<p>:sjis|文字列をSJISに変換し、URLエンコードします。(mb_stringのSJISへのエイリアスです)</p>
+<p>:euc|文字列を日本語EUCに変換し、URLエンコードします。(mb_stringのEUC-JPへのエイリアスです)</p>
+<p>:utf8|文字列をUTF-8に変換し、URLエンコードします。(mb_stringのUTF-8へのエイリアスです)</p>
+<p>:yw|YukiWiki系へのエンコーディング。</p>
+<p>:moin|MoinMoin用に変換します。 </p>
+
+<p>その他、PHP4のmb_stringでサポートされている以下のエンコード文字が使用できます。</p>
+
+<p>&#39;&#39;UCS-4, UCS-4BE, UCS-4LE, UCS-2, UCS-2BE, UCS-2LE, UTF-32, UTF-32BE, UTF-32LE, UCS-2LE, UTF-16, UTF-16BE, UTF-16LE, UTF-8, UTF-7, ASCII, EUC-JP, SJIS, eucJP-win, SJIS-win, ISO-2022-JP, JIS, ISO-8859-1, ISO-8859-2, ISO-8859-3, ISO-8859-4, ISO-8859-5, ISO-8859-6, ISO-8859-7, ISO-8859-8, ISO-8859-9, ISO-8859-10, ISO-8859-13, ISO-8859-14, ISO-8859-15, byte2be, byte2le, byte4be, byte4le, BASE64, 7bit, 8bit, UTF7-IMAP&#39;&#39;</p>
+
+<h2>YukiWiki系へのエンコーディング</h2>
+
+<ul>
+<li><a href="pages/57696b694e616d65.html">WikiName</a>のものへはそのままURLエンコード。</li>
+<li><a href="pages/427261636b65744e616d65.html">BracketName</a>のものは を付加してURLエンコード。</li>
+</ul>
+
+</article>  </main>
+</body>
+</html>

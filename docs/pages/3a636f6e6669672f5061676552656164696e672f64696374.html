@@ -1,0 +1,88 @@
+﻿<!doctype html>
+<html lang="ja">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>:config/PageReading/dict | sowaka archive</title>
+  <link rel="stylesheet" href="../styles.css" />
+</head>
+<body>
+  <header class="site-header">
+    <div class="wrap">
+      <h1><a href="../index.html">sowaka archive</a></h1>
+      <p>Static archive converted from legacy PukiWiki</p>
+    </div>
+  </header>
+  <main class="wrap"><article>
+<h2>:config/PageReading/dict</h2>
+<p>#freeze</p>
+<p><a href="pages/3a636f6e6669672f5061676552656164696e67.html">:config/PageReading</a></p>
+
+<h1>ChaSen/Kakasi無しで<a href="pages/3a636f6e6669672f5061676552656164696e67.html">:config/PageReading</a>を半自動作成するための辞書（サンプル）</h1>
+
+<ul>
+<li>ページの一覧を表示すると、<a href="pages/3a636f6e6669672f5061676552656164696e67.html">:config/PageReading</a> に登録されていないページ名にこのページのルールを適用して読みに変換し、一覧分類します。</li>
+<li>既に <a href="pages/3a636f6e6669672f5061676552656164696e67.html">:config/PageReading</a> に登録されているページには適用されません</li>
+<li>ルールの書式：半角スペース＋半角スラッシュ＋正規表現パターン＋半角スラッシュ＋半角コンマ＋読み（全角仮名）</li>
+<li>上記書式でない行は、無視されます。</li>
+<li>ルールは、上から順に適用されます。</li>
+<li>正規表現は、mb_ereg_replace 関数で処理されます。</li>
+<li>mbstring モジュール必須です。</li>
+<li>漢字以外も変換可能です。たとえば、「ABC」を「エービーシー」と変換することもできます。</li>
+</ul>
+
+<h2>単純な置換ルール</h2>
+
+<p> /日本語/,ニホンゴ</p>
+<p> /整形/,セイケイ</p>
+
+<h2>JIS第一水準が読みの順になっていることを利用したルール</h2>
+
+<p> /[亜-杏]/,ア</p>
+<p> /[以-吋]/,イ</p>
+<p> /[右-雲]/,ウ</p>
+<p> /[荏-塩]/,エ</p>
+<p> /[於-音]/,オ</p>
+<p> /[下-願]/,カ</p>
+<p> /[企-銀]/,キ</p>
+<p> /[九-郡]/,ク</p>
+<p> /[卦-乎]/,ケ</p>
+<p> /[乎-魂]/,コ</p>
+<p> /[些-残]/,サ</p>
+<p> /[仕-靭]/,シ</p>
+<p> /[笥-寸]/,ス</p>
+<p> /[世-糎]/,セ</p>
+<p> /[噌-遜]/,ソ</p>
+<p> /[他-談]/,タ</p>
+<p> /[値-陳]/,チ</p>
+<p> /[津-鶴]/,ツ</p>
+<p> /[亭-電]/,テ</p>
+<p> /[兎-鈍]/,ト</p>
+<p> /[奈-汝]/,ナ</p>
+<p> /[二-認]/,ニ</p>
+<p> /濡/,ヌ</p>
+<p> /[禰-粘]/,ネ</p>
+<p> /[乃-蚤]/,ノ</p>
+<p> /[巴-蛮]/,ハ</p>
+<p> /[匪-瓶]/,ヒ</p>
+<p> /[不-聞]/,フ</p>
+<p> /[丙-鞭]/,ヘ</p>
+<p> /[保-盆]/,ホ</p>
+<p> /[摩-蔓]/,マ</p>
+<p> /[味-眠]/,ミ</p>
+<p> /[務-娘]/,ム</p>
+<p> /[冥-麺]/,メ</p>
+<p> /[摸-匁]/,モ</p>
+<p> /[也-鑓]/,ヤ</p>
+<p> /[愉-夕]/,ユ</p>
+<p> /[予-淀]/,ヨ</p>
+<p> /[羅-覧]/,ラ</p>
+<p> /[利-麟]/,リ</p>
+<p> /[瑠-類]/,ル</p>
+<p> /[令-錬]/,レ</p>
+<p> /[呂-論]/,ロ</p>
+<p> /[倭-腕]/,ワ</p>
+
+</article>  </main>
+</body>
+</html>
