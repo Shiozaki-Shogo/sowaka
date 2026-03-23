@@ -5,127 +5,127 @@ title: '護法少女ソワカちゃん第１話（その２）・注釈'
 
 ## 護法少女ソワカちゃん第１話（その２）・注釈
 
-<h1>護法少女ソワカちゃん第１話（その２）・注釈</h1>
-<p><a href="{{ '/pages/ep1-2.html' | relative_url }}">護法少女ソワカちゃん第１（その２）</a>の注釈のページです。</p>
-<p>動画のコメント、<a href="http://mixi.jp/view_community.pl?id=2749241">mixiソワカちゃんコミュ</a>、<a href="{{ '/pages/2chlog.html' | relative_url }}">2chソワカちゃんスレ</a>などを</p>
-<p>参考にさせていただきました。ありがとうございました。</p>
-<p>見覚えはあるのですが不明な元ネタ（特に絵画関係）は項目名として挙げておきました。</p>
-<p>分かり次第更新いたしますので、御寛恕のほど、よろしくです。</p>
-<p>また、漏れ・間違いなどお気づきの方は、<a href="{{ '/pages/comment.html' | relative_url }}">こちら</a>でご指摘いただけると助かります。</p>
+# 護法少女ソワカちゃん第１話（その２）・注釈
+[護法少女ソワカちゃん第１（その２）]({{ '/pages/ep1-2.html' | relative_url }})の注釈のページです。
+動画のコメント、[mixiソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)、[2chソワカちゃんスレ]({{ '/pages/2chlog.html' | relative_url }})などを
+参考にさせていただきました。ありがとうございました。
+見覚えはあるのですが不明な元ネタ（特に絵画関係）は項目名として挙げておきました。
+分かり次第更新いたしますので、御寛恕のほど、よろしくです。
+また、漏れ・間違いなどお気づきの方は、[こちら]({{ '/pages/comment.html' | relative_url }})でご指摘いただけると助かります。
 
 
-<h2>揵闥婆城</h2>
-<p>揵闥婆（乾闥婆・けんだつば）は仏教を守護する楽神で、八部衆の一つ。</p>
-<p>サンスクリット語では<a href="http://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%AB%E3%83%B4%E3%82%A1">ガンダルヴァ</a>と呼ばれる。</p>
-<p>揵闥婆城（けんだつばじょう）は、揵闥婆が見せる幻の楼閣、蜃気楼のこと。</p>
-<p>以下、大智度論からの引用。</p>
-<blockquote><p>揵闥婆城（けんだつばじょう）の如しとは、~</p></blockquote>
-<p>日の初めて出づる時には、城門、楼櫓、宮殿、行人の出入りを見、</p>
-<p>日の転（うた）た高うなりて、転た滅す。</p>
-<p>此の城は、ただ眼に見るべきも実の有ること無し。是れ揵闥婆城と名づく。</p>
+## 揵闥婆城
+揵闥婆（乾闥婆・けんだつば）は仏教を守護する楽神で、八部衆の一つ。
+サンスクリット語では[ガンダルヴァ](http://ja.wikipedia.org/wiki/%E3%82%AC%E3%83%B3%E3%83%80%E3%83%AB%E3%83%B4%E3%82%A1)と呼ばれる。
+揵闥婆城（けんだつばじょう）は、揵闥婆が見せる幻の楼閣、蜃気楼のこと。
+以下、大智度論からの引用。
+> 揵闥婆城（けんだつばじょう）の如しとは、~
+日の初めて出づる時には、城門、楼櫓、宮殿、行人の出入りを見、
+日の転（うた）た高うなりて、転た滅す。
+此の城は、ただ眼に見るべきも実の有ること無し。是れ揵闥婆城と名づく。
 
-<h2>-奇譚</h2>
-<p>ウォルポール『<a href="http://www.gutenberg21.co.jp/otrant.htm">オトラント城奇譚</a>』のもじり。</p>
-<p>また田中芳樹の作品で『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4257173319/sowakasdog-22/ref=nosim">纐纈城綺譚（こうけつじょうきたん）</a>』という武侠小説もある。</p>
+## -奇譚
+ウォルポール『[オトラント城奇譚](http://www.gutenberg21.co.jp/otrant.htm)』のもじり。
+また田中芳樹の作品で『[纐纈城綺譚（こうけつじょうきたん）](http://www.amazon.co.jp/exec/obidos/ASIN/4257173319/sowakasdog-22/ref=nosim)』という武侠小説もある。
 
-<h2>冒頭シーン１</h2>
-<p>ジョルジョ・デ・キリコ『<a href="http://www.kjps.net/user/m31fb5/matinosinpitofuan.jpeg">街の神秘と憂鬱</a>』。</p>
+## 冒頭シーン１
+ジョルジョ・デ・キリコ『[街の神秘と憂鬱](http://www.kjps.net/user/m31fb5/matinosinpitofuan.jpeg)』。
 
-<h2>冒頭シーン２</h2>
-<p>ジェームズ・アンソール『<a href="http://sowaka.s-dog.net/photo/ensor_2.jpg">笑いから涙へ</a>』。</p>
-<p>その１からその２への展開を暗示する画題か？</p>
+## 冒頭シーン２
+ジェームズ・アンソール『[笑いから涙へ]({{ '/photo/ensor_2.jpg' | relative_url }})』。
+その１からその２への展開を暗示する画題か？
 
-<h2>タイトルシーン</h2>
-<p>ヘンリー・ダーガー『<a href="http://pukeandcry.img.jugem.jp/20070426_355107.jpg">少女たちの戦いの物語</a>』。</p>
-<p>文字通り「少女たちの戦いの物語」がこれから始まる。</p>
+## タイトルシーン
+ヘンリー・ダーガー『[少女たちの戦いの物語](http://pukeandcry.img.jugem.jp/20070426_355107.jpg)』。
+文字通り「少女たちの戦いの物語」がこれから始まる。
 
-<h2>そこらに散らばる謎のアイテム</h2>
-<p>既出のアイテムに、サルバドール・ダリ『<a href="http://www.tate.org.uk/collection/T/T03/T03257_9.jpg">ロブスター電話</a>』、ルネ・マグリット『<a href="http://nsm.uh.edu/~dgraur/Images/magritte.redmodel.jpg">指の生えた靴</a>』が混じってる。</p>
+## そこらに散らばる謎のアイテム
+既出のアイテムに、サルバドール・ダリ『[ロブスター電話](http://www.tate.org.uk/collection/T/T03/T03257_9.jpg)』、ルネ・マグリット『[指の生えた靴](http://nsm.uh.edu/~dgraur/Images/magritte.redmodel.jpg)』が混じってる。
 
-<h2>ウチは平屋だったような</h2>
-<p>描かれているのはスコットランド・スターリングの<a href="http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E5%9F%8E">スターリング城</a>。</p>
-<p><a href="http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88">ウォルター・スコット</a>の 『<a href="http://ebooks.adelaide.edu.au/s/scott/walter/waverley/">ウェーバリー(Waverley)</a>』という小説で使われた挿絵が元ネタ。（<a href="http://sowaka.s-dog.net/photo/Stirling_Castle.jpg">参考画像</a>）</p>
+## ウチは平屋だったような
+描かれているのはスコットランド・スターリングの[スターリング城](http://ja.wikipedia.org/wiki/%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%AA%E3%83%B3%E3%82%B0%E5%9F%8E)。
+[ウォルター・スコット](http://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A9%E3%83%AB%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%B9%E3%82%B3%E3%83%83%E3%83%88)の 『[ウェーバリー(Waverley)](http://ebooks.adelaide.edu.au/s/scott/walter/waverley/)』という小説で使われた挿絵が元ネタ。（[参考画像]({{ '/photo/Stirling_Castle.jpg' | relative_url }})）
 
-<h2>中はとってもあなくろい世界</h2>
-<p>小栗蟲太郎『<a href="http://ja.wikipedia.org/wiki/%E9%BB%92%E6%AD%BB%E9%A4%A8%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6">黒死館殺人事件</a>』の舞台、黒死館をモデルにしている。</p>
-<p>全くの余談だが、黒死館館主の降矢木家は千々石ミゲルを祖先に持つ家系とされる。</p>
-<p>なお、アナクロは「アナクロニズム」の略で、流行遅れ・時代錯誤のこと。</p>
-<p>「あな（＝とても）」「黒い」に掛けているかも知れない。</p>
+## 中はとってもあなくろい世界
+小栗蟲太郎『[黒死館殺人事件](http://ja.wikipedia.org/wiki/%E9%BB%92%E6%AD%BB%E9%A4%A8%E6%AE%BA%E4%BA%BA%E4%BA%8B%E4%BB%B6)』の舞台、黒死館をモデルにしている。
+全くの余談だが、黒死館館主の降矢木家は千々石ミゲルを祖先に持つ家系とされる。
+なお、アナクロは「アナクロニズム」の略で、流行遅れ・時代錯誤のこと。
+「あな（＝とても）」「黒い」に掛けているかも知れない。
 
-<h2>階段左下、白い女の首</h2>
-<p>ズジスワフ・ベクシンスキーの<a href="http://gnosis.art.pl/iluminatornia/sztuka_o_inspiracji/zdzislaw_beksinski/zdzislaw_beksinski_1981.htm">作品（作品名不詳）</a>。</p>
-<p>「三回見ると死ぬ絵」という都市伝説で有名らしい。</p>
+## 階段左下、白い女の首
+ズジスワフ・ベクシンスキーの[作品（作品名不詳）](http://gnosis.art.pl/iluminatornia/sztuka_o_inspiracji/zdzislaw_beksinski/zdzislaw_beksinski_1981.htm)。
+「三回見ると死ぬ絵」という都市伝説で有名らしい。
 
-<h2>階段右下、時計</h2>
-<p>装飾は竜か？　元ネタ不明。</p>
+## 階段右下、時計
+装飾は竜か？　元ネタ不明。
 
-<h2>何だか不吉な絵面</h2>
-<p>三枚の絵は『黒死館殺人事件』に由来。以下、引用。</p>
-<blockquote><p>階段廊の三方の壁には、壁面の遙か上方に、~</p></blockquote>
-<p>中央のガブリエル・マックス作「<a href="http://www.netslova.ru/gorny/selected/pics/max/von-Max_Der-Anatom.jpg">腑分図（ふわけず）</a>」を挾んで、</p>
-<p>左手の壁にジェラール・ダビッドの「<a href="http://artfiles.art.com/images/-/Gerard-David/The-Flaying-of-Sisamnes-Giclee-Print-C12260617.jpeg">シサムネス皮剥死刑の図</a>」、</p>
-<p>右手の壁面には、ド・トリーの「<a href="http://sowaka.s-dog.net/photo/peste.jpg">一七二〇年マルセーユの黒死病（ペスト）</a>」が、掲げられてあった。</p>
+## 何だか不吉な絵面
+三枚の絵は『黒死館殺人事件』に由来。以下、引用。
+> 階段廊の三方の壁には、壁面の遙か上方に、~
+中央のガブリエル・マックス作「[腑分図（ふわけず）](http://www.netslova.ru/gorny/selected/pics/max/von-Max_Der-Anatom.jpg)」を挾んで、
+左手の壁にジェラール・ダビッドの「[シサムネス皮剥死刑の図](http://artfiles.art.com/images/-/Gerard-David/The-Flaying-of-Sisamnes-Giclee-Print-C12260617.jpeg)」、
+右手の壁面には、ド・トリーの「[一七二〇年マルセーユの黒死病（ペスト）]({{ '/photo/peste.jpg' | relative_url }})」が、掲げられてあった。
 
-<h2>二基の甲冑武者</h2>
-<p>綴織（ツルネー）を持つ二基の甲冑武者も『黒死館殺人事件』が元ネタ。</p>
-<p>ただし『黒死館』では左手は「ローマ教会のミサ」、</p>
-<p>右手が「エーカー尺を持つクェーカー宗徒」が描かれていたとされる。</p>
-<p>主人公の法水麟太郎はそれを「Mass（ミサ）」+「acre（エーカー）」＝「Massacre（虐殺）」の暗喩と解釈した。</p>
-<p>本作では左が中国の国旗、五星紅旗。手前の人物は映画『<a href="http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0">シャイニング</a>』の主人公・ダニー。</p>
-<p>右が海賊旗（<a href="http://ja.wikipedia.org/wiki/%E6%B5%B7%E8%B3%8A%E6%97%97">ジョリーロジャー</a>）と、映画『パイレーツ・オブ・カリビアン』の<a href="http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%91%E3%83%AD%E3%82%A6">ジャック・スパロウ</a>。</p>
-<p>「中国国旗→赤→RED」＋「海賊→ラム酒→RUM」＝「REDRUM」。</p>
-<p>それを反転させた言葉「MURDER（殺人）」を示唆している。</p>
-<p>映画『シャイニング』で少年ダニーが<a href="http://www.youtube.com/watch?v=g874H2GBPlA">「REDRUM…」とつぶやき続ける場面</a>を参照されたし。</p>
+## 二基の甲冑武者
+綴織（ツルネー）を持つ二基の甲冑武者も『黒死館殺人事件』が元ネタ。
+ただし『黒死館』では左手は「ローマ教会のミサ」、
+右手が「エーカー尺を持つクェーカー宗徒」が描かれていたとされる。
+主人公の法水麟太郎はそれを「Mass（ミサ）」+「acre（エーカー）」＝「Massacre（虐殺）」の暗喩と解釈した。
+本作では左が中国の国旗、五星紅旗。手前の人物は映画『[シャイニング](http://ja.wikipedia.org/wiki/%E3%82%B7%E3%83%A3%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0)』の主人公・ダニー。
+右が海賊旗（[ジョリーロジャー](http://ja.wikipedia.org/wiki/%E6%B5%B7%E8%B3%8A%E6%97%97)）と、映画『パイレーツ・オブ・カリビアン』の[ジャック・スパロウ](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%83%BB%E3%82%B9%E3%83%91%E3%83%AD%E3%82%A6)。
+「中国国旗→赤→RED」＋「海賊→ラム酒→RUM」＝「REDRUM」。
+それを反転させた言葉「MURDER（殺人）」を示唆している。
+映画『シャイニング』で少年ダニーが[「REDRUM…」とつぶやき続ける場面](http://www.youtube.com/watch?v=g874H2GBPlA)を参照されたし。
 
-<h2>大きな虫とかの類</h2>
-<p>オディロン・ルドン『<a href="http://storage.kanshin.com/free/img_34/347050/k2124938937.jpg">蜘蛛</a>』。</p>
-<p>「大きな虫」という表現はカフカ『変身』を意識してるかもしれない。</p>
-<p>ちなみにルドンの『蜘蛛』はトンマーゾ・ランドルフィ『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4336035911/sowakasdog-22/ref=nosim">カフカの父親</a>』の装丁にも使われている。</p>
+## 大きな虫とかの類
+オディロン・ルドン『[蜘蛛](http://storage.kanshin.com/free/img_34/347050/k2124938937.jpg)』。
+「大きな虫」という表現はカフカ『変身』を意識してるかもしれない。
+ちなみにルドンの『蜘蛛』はトンマーゾ・ランドルフィ『[カフカの父親](http://www.amazon.co.jp/exec/obidos/ASIN/4336035911/sowakasdog-22/ref=nosim)』の装丁にも使われている。
 
-<h2>ココアルンバ</h2>
-<p>『<a href="http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%BB%E3%83%AB%E3%83%B3%E3%83%90">コーヒールンバ</a>』のもじり。</p>
+## ココアルンバ
+『[コーヒールンバ](http://ja.wikipedia.org/wiki/%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%E3%83%BB%E3%83%AB%E3%83%B3%E3%83%90)』のもじり。
 
-<h2>「爪」の文字で逃げるシーン</h2>
-<p>アクションゲーム・PSP版『<a href="http://ja.wikipedia.org/wiki/%E6%B5%B7%E8%85%B9%E5%B7%9D%E8%83%8C">海腹川背</a>』の「<a href="http://www32.atwiki.jp/kawasepsp/pages/22.html">ロープ張り付き（粘着ロープ）バグ</a>」が元ネタかも知れない。</p>
-<p>あるいはゼルダシリーズのフックショットという意見もあり。他にも似た技は多い。</p>
+## 「爪」の文字で逃げるシーン
+アクションゲーム・PSP版『[海腹川背](http://ja.wikipedia.org/wiki/%E6%B5%B7%E8%85%B9%E5%B7%9D%E8%83%8C)』の「[ロープ張り付き（粘着ロープ）バグ](http://www32.atwiki.jp/kawasepsp/pages/22.html)」が元ネタかも知れない。
+あるいはゼルダシリーズのフックショットという意見もあり。他にも似た技は多い。
 
-<h2>ここはやっぱり私たちが住んでるところ</h2>
-<p>ドアの文字（sowaka）は映画『<a href="http://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A6">SAW</a>』を意識してるのか？</p>
-<p>格子から出た腕は、ビデオ版『呪怨』の<a href="http://sowaka.s-dog.net/photo/jyuon.JPG">１シーン</a>が由来と思われる。（<a href="http://www.nicovideo.jp/watch/sm1839976">この動画</a>の7:15くらい）</p>
+## ここはやっぱり私たちが住んでるところ
+ドアの文字（sowaka）は映画『[SAW](http://ja.wikipedia.org/wiki/%E3%82%BD%E3%82%A6)』を意識してるのか？
+格子から出た腕は、ビデオ版『呪怨』の[１シーン]({{ '/photo/jyuon.JPG' | relative_url }})が由来と思われる。（[この動画](http://www.nicovideo.jp/watch/sm1839976)の7:15くらい）
 
-<h2>呪ディ怨グ</h2>
-<p>映画『<a href="http://ja.wikipedia.org/wiki/%E5%91%AA%E6%80%A8">呪怨</a>』と歌手「<a href="http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%87%E3%82%A3%E3%83%BB%E3%82%AA%E3%83%B3%E3%82%B0">ジュディ・オング</a>」を掛けた洒落。</p>
+## 呪ディ怨グ
+映画『[呪怨](http://ja.wikipedia.org/wiki/%E5%91%AA%E6%80%A8)』と歌手「[ジュディ・オング](http://ja.wikipedia.org/wiki/%E3%82%B8%E3%83%A5%E3%83%87%E3%82%A3%E3%83%BB%E3%82%AA%E3%83%B3%E3%82%B0)」を掛けた洒落。
 
-<h2>いろんなものが変わってる</h2>
-<p>クーヤンの王将はチェスのキングに、</p>
-<p>ソワカちゃんの布団は豪華なベッドに変わってしまったようだ。</p>
+## いろんなものが変わってる
+クーヤンの王将はチェスのキングに、
+ソワカちゃんの布団は豪華なベッドに変わってしまったようだ。
 
-<h2>パパは一体どこに</h2>
-<p>一瞬、声が聞こえる気がする。</p>
+## パパは一体どこに
+一瞬、声が聞こえる気がする。
 
-<h2>間奏シーン１</h2>
-<p>レメディオス・ヴァロ『<a href="http://sowaka.s-dog.net/photo/insomnio.jpg">Insomnio</a>』。（直訳すると「不眠症」）</p>
-<p>なお、間奏部分のドラムは<a href="http://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3">セカンド・ライン</a>と呼ばれる独特のリズム（<a href="http://youtube.com/watch?v=PrPPMsID0GI">参考動画</a>）が使われているようだ。</p>
-<p>アメリカ南部黒人の葬送曲に由来するリズムで、パパの死を暗示する渋い演出と言えるだろう。</p>
+## 間奏シーン１
+レメディオス・ヴァロ『[Insomnio]({{ '/photo/insomnio.jpg' | relative_url }})』。（直訳すると「不眠症」）
+なお、間奏部分のドラムは[セカンド・ライン](http://ja.wikipedia.org/wiki/%E3%82%BB%E3%82%AB%E3%83%B3%E3%83%89%E3%83%BB%E3%83%A9%E3%82%A4%E3%83%B3)と呼ばれる独特のリズム（[参考動画](http://youtube.com/watch?v=PrPPMsID0GI)）が使われているようだ。
+アメリカ南部黒人の葬送曲に由来するリズムで、パパの死を暗示する渋い演出と言えるだろう。
 
-<h2>間奏シーン２</h2>
-<p>エドガー・エンデ『<a href="http://www.edgarende.de/Englisch/Werk/Fenster.htm">窓の十字架</a>』。</p>
-<p>『窓の十字架』はエドガーの息子に当たるミヒャエル・エンデの『<a href="http://www.amazon.co.jp/exec/obidos/ASIN/4000003070/sowakasdog-22/ref=nosim">鏡の中の鏡</a>』の表紙としても使われている。</p>
+## 間奏シーン２
+エドガー・エンデ『[窓の十字架](http://www.edgarende.de/Englisch/Werk/Fenster.htm)』。
+『窓の十字架』はエドガーの息子に当たるミヒャエル・エンデの『[鏡の中の鏡](http://www.amazon.co.jp/exec/obidos/ASIN/4000003070/sowakasdog-22/ref=nosim)』の表紙としても使われている。
 
-<h2>間奏シーン３</h2>
-<p>マウリッツ・エッシャー『<a href="http://sowaka.s-dog.net/photo/67.jpg">相対性</a>』。</p>
+## 間奏シーン３
+マウリッツ・エッシャー『[相対性]({{ '/photo/67.jpg' | relative_url }})』。
 
-<h2>間奏シーン４</h2>
-<p>長い廊下は女神転生のような３ＤＲＰＧを意識してるようだ。</p>
-<p>部屋から飛び出してきたのはアーノルド・ベックリン『<a href="http://sowaka.s-dog.net/photo/gazou-bekpes.jpg">ペスト</a>』。「黒死（＝ペスト）館」に掛けてると思われる。</p>
-<p>その後、現れたのはもはやお馴染みの眼球たん。</p>
-<p>このシーンで奏でられるメロディは映画『悪魔が来りて笛を吹く』(1979)のテーマ曲、山本邦山『黄金のフルート』。</p>
-<p>なお、ベックリンの『ペスト』は丸尾末広が描いたAUTO-MOD『<a href="http://www.auto-mod.com/webdata/his_modREQUIEM.html">レクイエム</a>』のジャケットの元ネタでもある。</p>
+## 間奏シーン４
+長い廊下は女神転生のような３ＤＲＰＧを意識してるようだ。
+部屋から飛び出してきたのはアーノルド・ベックリン『[ペスト]({{ '/photo/gazou-bekpes.jpg' | relative_url }})』。「黒死（＝ペスト）館」に掛けてると思われる。
+その後、現れたのはもはやお馴染みの眼球たん。
+このシーンで奏でられるメロディは映画『悪魔が来りて笛を吹く』(1979)のテーマ曲、山本邦山『黄金のフルート』。
+なお、ベックリンの『ペスト』は丸尾末広が描いたAUTO-MOD『[レクイエム](http://www.auto-mod.com/webdata/his_modREQUIEM.html)』のジャケットの元ネタでもある。
 
-<h2>忽然と現れた謎の物体</h2>
-<p>マックス・エルンスト『<a href="http://en.wikipedia.org/wiki/Image:The_Elephant_Celebes.jpg">セレベスの象</a>』。</p>
+## 忽然と現れた謎の物体
+マックス・エルンスト『[セレベスの象](http://en.wikipedia.org/wiki/Image:The_Elephant_Celebes.jpg)』。
 
-<h2>呪法は解けた</h2>
-<p>映画『SAW』でのゲームクリアのような後味の悪さだ…。</p>
-<p>「その１」の「ケチャップ味の暴力」や「野菜ソムリエ」が伏線だったという解釈もある。</p>
+## 呪法は解けた
+映画『SAW』でのゲームクリアのような後味の悪さだ…。
+「その１」の「ケチャップ味の暴力」や「野菜ソムリエ」が伏線だったという解釈もある。
 

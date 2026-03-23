@@ -5,53 +5,53 @@ title: '密猟の夜'
 
 ## 密猟の夜
 
-<h1>密猟の夜</h1>
-<p>使い回しシリーズ『<a href="http://www.nicovideo.jp/mylist/4414387">夢の旧作</a>』と命名された<a href="http://piapro.jp/kihirohito">kihirohito氏</a>のオリジナル曲、第２弾！</p>
-<p>今度は</p>
-<p>VOCALOID2「<a href="http://www.crypton.co.jp/mp/pages/prod/vocaloid/cv02.jsp">鏡音リン</a>」が歌います。十代の頃の作品だそうです。</p>
-<p>今回、注釈ページはありません。</p>
+# 密猟の夜
+使い回しシリーズ『[夢の旧作](http://www.nicovideo.jp/mylist/4414387)』と命名された[kihirohito氏](http://piapro.jp/kihirohito)のオリジナル曲、第２弾！
+今度は
+VOCALOID2「[鏡音リン](http://www.crypton.co.jp/mp/pages/prod/vocaloid/cv02.jsp)」が歌います。十代の頃の作品だそうです。
+今回、注釈ページはありません。
 
-<h2>動画</h2>
-<h3>ニコニコ動画</h3>
-<p><a href="https://www.nicovideo.jp/watch/sm2002108">Niconico: sm2002108</a></p>
-<h3>Youtube</h3>
+## 動画
+### ニコニコ動画
+[Niconico: sm2002108](https://www.nicovideo.jp/watch/sm2002108)
+### Youtube
 <div class="video"><iframe src="https://www.youtube.com/embed/eNrVFJcQOK4" title="YouTube eNrVFJcQOK4" loading="lazy" allowfullscreen></iframe></div>
 
-<h2>歌詞</h2>
-<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm2002108）">http://www.nicovideo.jp/watch/sm2002108）</a></p>
+## 歌詞
+記　kihirohito（http://www.nicovideo.jp/watch/sm2002108）
 
-<p><strong>密猟の夜</strong></p>
-<p></p>
-<p>鉞（まさかり）の月に照らされて</p>
-<p>二人は夜の傷を負う</p>
-<p>森の中　道に迷っては</p>
-<p>誰も知らない奥底へ</p>
-<p></p>
-<p>今夜青い鳥を狙い撃てば</p>
-<p>夢は変わるよ</p>
-<p>銃に弾丸（たま）を込めて</p>
-<p>震える指　銃爪（ひきがね）を引いた</p>
-<p></p>
-<p>月はただ見ている</p>
-<p>密猟の夜</p>
-<p></p>
-<p>凍りつく静けさの中で</p>
-<p>鳥の鳴き声こだまする</p>
-<p>今まで見えていた何かが</p>
-<p>その時消えた気がしたよ</p>
-<p></p>
-<p>今夜青い鳥の羽根を毟（むし）り</p>
-<p>肉を貪った</p>
-<p>お前の口唇（くちびる）に　爪の先に</p>
-<p>赤い血が凝（こご）る</p>
-<p></p>
-<p>月はただ見ている</p>
-<p>密猟の夜</p>
-<p></p>
-<p>今夜青い鳥を狙い撃てば</p>
-<p>夢は変わるよ</p>
-<p>銃に弾丸を込めて</p>
-<p>震える指　銃爪を引いた</p>
-<p></p>
-<p>月はただ見ている</p>
-<p>密猟の夜</p>
+**密猟の夜**
+
+鉞（まさかり）の月に照らされて
+二人は夜の傷を負う
+森の中　道に迷っては
+誰も知らない奥底へ
+
+今夜青い鳥を狙い撃てば
+夢は変わるよ
+銃に弾丸（たま）を込めて
+震える指　銃爪（ひきがね）を引いた
+
+月はただ見ている
+密猟の夜
+
+凍りつく静けさの中で
+鳥の鳴き声こだまする
+今まで見えていた何かが
+その時消えた気がしたよ
+
+今夜青い鳥の羽根を毟（むし）り
+肉を貪った
+お前の口唇（くちびる）に　爪の先に
+赤い血が凝（こご）る
+
+月はただ見ている
+密猟の夜
+
+今夜青い鳥を狙い撃てば
+夢は変わるよ
+銃に弾丸を込めて
+震える指　銃爪を引いた
+
+月はただ見ている
+密猟の夜

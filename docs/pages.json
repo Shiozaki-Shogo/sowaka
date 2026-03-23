@@ -138,12 +138,6 @@
         "RelMdPath":  "pages/believer.md"
     },
     {
-        "Title":  "ソワカちゃん疏鈔",
-        "Base":  "E382BDE383AFE382ABE381A1E38283E38293E7968FE98894",
-        "Slug":  "sowaka-shosho",
-        "RelMdPath":  "pages/sowaka-shosho.md"
-    },
-    {
         "Title":  "ソワカレンダー",
         "Base":  "E382BDE383AFE382ABE383ACE383B3E38380E383BC",
         "Slug":  "calendar",

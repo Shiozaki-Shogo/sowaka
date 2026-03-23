@@ -5,50 +5,50 @@ title: '赤い水銀'
 
 ## 赤い水銀
 
-<h1>赤い水銀</h1>
-<p>やりかけの曲の御蔵出し、「やりかけ曲企画」第三弾です。</p>
-<p>GSっぽい曲調ということでGSっぽい<a href="http://www26.atwiki.jp/sowaka-fan/pages/240.html">ささなみさん</a>の描かれたイラストが動画に採用されました。</p>
-<p>（今回も注釈ページはありません）</p>
+# 赤い水銀
+やりかけの曲の御蔵出し、「やりかけ曲企画」第三弾です。
+GSっぽい曲調ということでGSっぽい[ささなみさん](http://www26.atwiki.jp/sowaka-fan/pages/240.html)の描かれたイラストが動画に採用されました。
+（今回も注釈ページはありません）
 
-<h2>動画</h2>
-<h3>ニコニコ動画</h3>
-<p><a href="https://www.nicovideo.jp/watch/sm9348542">Niconico: sm9348542</a></p>
-<h3>Youtube</h3>
+## 動画
+### ニコニコ動画
+[Niconico: sm9348542](https://www.nicovideo.jp/watch/sm9348542)
+### Youtube
 <div class="video"><iframe src="https://www.youtube.com/embed/kKM_Wl3vz7M" title="YouTube kKM_Wl3vz7M" loading="lazy" allowfullscreen></iframe></div>
 
-<h2>歌詞</h2>
-<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm9348542）">http://www.nicovideo.jp/watch/sm9348542）</a></p>
+## 歌詞
+記　kihirohito（http://www.nicovideo.jp/watch/sm9348542）
 
-<p><strong>赤い水銀</strong></p>
-<p></p>
-<p>僕の心の奥底の赤い水銀</p>
-<p>光が蠢くように流れてゆく</p>
-<p></p>
-<p>空に歪んだ太陽が</p>
-<p>僕のこと狂わせる</p>
-<p>届かぬ祈りの告白を</p>
-<p>切なく繰り返すよ</p>
-<p></p>
-<p>ニュルンベルクの処女(おとめ)さ 君は</p>
-<p>苦悶と恍惚のうちに死す</p>
-<p></p>
-<p>君が笑顔を見せるたび</p>
-<p>何故に傷つくのか</p>
-<p>神の助けを呼ぶ声は</p>
-<p>空しく響き渡るだけ</p>
-<p></p>
-<p>僕の心の奥底の赤い水銀</p>
-<p>光が蠢くように流れてゆく</p>
-<p></p>
-<p>失うものは何もない</p>
-<p>このまま堕ちてゆける</p>
-<p>君の胸に抱かれて</p>
-<p>愛の煉獄へと</p>
-<p></p>
-<p>君は僕のファム・ファタールなのさ</p>
-<p>そして向かうんだ 赤いまどろみの中へ</p>
-<p></p>
-<p>Infernal Love! Hallelujah!</p>
-<p>Infernal Love! Hallelujah!</p>
-<p>To Red Mercury...Hallelujah!</p>
-<p></p>
+**赤い水銀**
+
+僕の心の奥底の赤い水銀
+光が蠢くように流れてゆく
+
+空に歪んだ太陽が
+僕のこと狂わせる
+届かぬ祈りの告白を
+切なく繰り返すよ
+
+ニュルンベルクの処女(おとめ)さ 君は
+苦悶と恍惚のうちに死す
+
+君が笑顔を見せるたび
+何故に傷つくのか
+神の助けを呼ぶ声は
+空しく響き渡るだけ
+
+僕の心の奥底の赤い水銀
+光が蠢くように流れてゆく
+
+失うものは何もない
+このまま堕ちてゆける
+君の胸に抱かれて
+愛の煉獄へと
+
+君は僕のファム・ファタールなのさ
+そして向かうんだ 赤いまどろみの中へ
+
+Infernal Love! Hallelujah!
+Infernal Love! Hallelujah!
+To Red Mercury...Hallelujah!
+

@@ -5,36 +5,36 @@ title: 'ソワカちゃん信徒のページ'
 
 ## ソワカちゃん信徒のページ
 
-<h1>ソワカちゃん信徒のページ</h1>
-<p>このページはソワカちゃん信徒（いわゆるファン）のためのページです。</p>
-<p>このサイト以外にも、mixiの<a href="http://mixi.jp/view_community.pl?id=2749241">護法少女ソワカちゃんコミュニティ</a>や、</p>
-<p>2ch「心と宗教」板の『<a href="{{ '/pages/2chlog.html' | relative_url }}">護法少女ソワカちゃんについて語るスレ</a>』などで</p>
-<p>護法少女ソワカちゃんに関する情報交換が行われています。</p>
+# ソワカちゃん信徒のページ
+このページはソワカちゃん信徒（いわゆるファン）のためのページです。
+このサイト以外にも、mixiの[護法少女ソワカちゃんコミュニティ](http://mixi.jp/view_community.pl?id=2749241)や、
+2ch「心と宗教」板の『[護法少女ソワカちゃんについて語るスレ]({{ '/pages/2chlog.html' | relative_url }})』などで
+護法少女ソワカちゃんに関する情報交換が行われています。
 
 
-<h2>護法少女ソワカちゃん 信者まとめwiki（仮称？）</h2>
-<p>2chの有志の方が<a href="http://www26.atwiki.jp/sowaka-fan/">護法少女ソワカちゃん 信者まとめwiki</a>を作成してくださいました！</p>
-<p>動画やイラスト、歌ってみた・演奏してみたなど二次創作で活躍されている</p>
-<p>ソワカちゃんファンの方々を丁寧に整理して紹介されてます。中の人、乙彼！</p>
+## 護法少女ソワカちゃん 信者まとめwiki（仮称？）
+2chの有志の方が[護法少女ソワカちゃん 信者まとめwiki](http://www26.atwiki.jp/sowaka-fan/)を作成してくださいました！
+動画やイラスト、歌ってみた・演奏してみたなど二次創作で活躍されている
+ソワカちゃんファンの方々を丁寧に整理して紹介されてます。中の人、乙彼！
 
-<h2>ソワカちゃん着うた・着メロ</h2>
-<p>mixiの<a href="http://mixi.jp/view_community.pl?id=2749241">護法少女ソワカちゃんコミュ</a>の<a href="http://ktai.st/~kondoh/index.shtml">ブルカニロさん</a>が、護法少女ソワカちゃんの着うた・着メロを作ってくださいました！</p>
-<p>着うたは３キャリア対応、着メロも順次作成中だそうです！　下のリンク、またはQRコードからどうぞ～。</p>
-<p><a href="http://ktai.st/~kondoh/scm4ex_pl.cgi?t=&amp;apass=&amp;page=sowaka.html">http://ktai.st/~kondoh/scm4ex_pl.cgi?t=&amp;apass=&amp;page=sowaka.html</a></p>
-<p><img src="{{ '/photo/24993617_91.jpg' | relative_url }}" alt="着うたQRコード" loading="lazy" /></p>
+## ソワカちゃん着うた・着メロ
+mixiの[護法少女ソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)の[ブルカニロさん](http://ktai.st/~kondoh/index.shtml)が、護法少女ソワカちゃんの着うた・着メロを作ってくださいました！
+着うたは３キャリア対応、着メロも順次作成中だそうです！　下のリンク、またはQRコードからどうぞ～。
+http://ktai.st/~kondoh/scm4ex_pl.cgi?t=&amp;apass=&amp;page=sowaka.html
+<img src="{{ '/photo/24993617_91.jpg' | relative_url }}" alt="着うたQRコード" loading="lazy" />
 
-<h2>ソワカちゃんイラスト集</h2>
-<p>mixiの<a href="http://mixi.jp/view_community.pl?id=2749241">護法少女ソワカちゃんコミュ</a>他、ソワカちゃんファンの絵師の皆様が描かれたイラストです。</p>
-<p><strong>初音ミクではありません。</strong>ソワカちゃんです。絵師の皆様、ありがとうございます！</p>
-<p>最近、新作イラストがアップされるペースが上がり、転載が追いつかなくなっております。申し訳ありません。m(_ _)m</p>
-<p><a href="http://mixi.jp/view_community.pl?id=2749241">mixiのコミュ</a>、<a href="http://www.pixiv.net/tags.php?tag=%E8%AD%B7%E6%B3%95%E5%B0%91%E5%A5%B3%E3%82%BD%E3%83%AF%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93">pixiv</a>、<a href="http://piapro.jp/a/content_list/?view=image&amp;tag=%8C%EC%96%40%8F%AD%8F%97%83%5C%83%8F%83J%82%BF%82%E1%82%F1">ピアプロ</a>にもソワカちゃん関連の素敵なイラストが多数公開されてるので、そちらも是非ご覧ください。</p>
-<p>※ サムネイルをクリックすると別ウインドウで元のサイズの画像が表示されます。</p>
+## ソワカちゃんイラスト集
+mixiの[護法少女ソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)他、ソワカちゃんファンの絵師の皆様が描かれたイラストです。
+**初音ミクではありません。**ソワカちゃんです。絵師の皆様、ありがとうございます！
+最近、新作イラストがアップされるペースが上がり、転載が追いつかなくなっております。申し訳ありません。m(_ _)m
+[mixiのコミュ](http://mixi.jp/view_community.pl?id=2749241)、[pixiv](http://www.pixiv.net/tags.php?tag=%E8%AD%B7%E6%B3%95%E5%B0%91%E5%A5%B3%E3%82%BD%E3%83%AF%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93)、[ピアプロ](http://piapro.jp/a/content_list/?view=image&amp;tag=%8C%EC%96%40%8F%AD%8F%97%83%5C%83%8F%83J%82%BF%82%E1%82%F1)にもソワカちゃん関連の素敵なイラストが多数公開されてるので、そちらも是非ご覧ください。
+※ サムネイルをクリックすると別ウインドウで元のサイズの画像が表示されます。
 <table class="wiki-table">
 <tr>
-<th><a href="http://mac.gn.to/">小野秀一。画伯</a>・作</th>
-<th><a href="http://kawani.roma2.moo.jp/">カワニ画伯</a>・作</th>
-<th><a href="http://savao.nobody.jp/">パパヤ画伯</a>・作</th>
-<th><a href="http://blog.kansai.com/weblog_55">はじめ画伯</a>・作</th>
+<th>[小野秀一。画伯](http://mac.gn.to/)・作</th>
+<th>[カワニ画伯](http://kawani.roma2.moo.jp/)・作</th>
+<th>[パパヤ画伯](http://savao.nobody.jp/)・作</th>
+<th>[はじめ画伯](http://blog.kansai.com/weblog_55)・作</th>
 </tr>
 <tr>
 <td><a href="{{ '/photo/310195224_229.jpg' | relative_url }}"><img src="{{ '/photo/310195224_229.jpg' | relative_url }}" alt="護法少女ソワカちゃん" loading="lazy" /></a></td>
@@ -43,10 +43,10 @@ title: 'ソワカちゃん信徒のページ'
 <td><a href="{{ '/photo/312855274_121.jpg' | relative_url }}"><img src="{{ '/photo/312855274_121.jpg' | relative_url }}" alt="護法少女ソワカちゃん" loading="lazy" /></a></td>
 </tr>
 <tr>
-<th><a href="http://isiisister.blog3.fc2.com/">lope画伯</a>・作</th>
-<th><a href="http://blog.so-net.ne.jp/fps/">ケッテンクラフトラート画伯</a>・作</th>
-<th><a href="http://kazuma.qp.land.to/">一魔画伯</a>・作</th>
-<th><a href="http://poolhool.jp/">東野プール画伯</a>・作</th>
+<th>[lope画伯](http://isiisister.blog3.fc2.com/)・作</th>
+<th>[ケッテンクラフトラート画伯](http://blog.so-net.ne.jp/fps/)・作</th>
+<th>[一魔画伯](http://kazuma.qp.land.to/)・作</th>
+<th>[東野プール画伯](http://poolhool.jp/)・作</th>
 </tr>
 <tr>
 <td><a href="{{ '/photo/339852888_218.jpg' | relative_url }}"><img src="{{ '/photo/339852888_218.jpg' | relative_url }}" alt="護法少女ソワカちゃん" loading="lazy" /></a></td>
@@ -55,10 +55,10 @@ title: 'ソワカちゃん信徒のページ'
 <td><a href="{{ '/photo/325719993_253.jpg' | relative_url }}"><img src="{{ '/photo/325719993_253.jpg' | relative_url }}" alt="護法少女ソワカちゃん" loading="lazy" /></a></td>
 </tr>
 <tr>
-<th><a href="http://poolhool.jp/">東野プール画伯</a>・作</th>
-<th><a href="http://tomioka2.huruike.com/">tomioka2画伯</a>・作</th>
-<th><a href="http://blog.kansai.com/weblog_55">はじめ画伯</a>・作</th>
-<th><a href="http://mac.gn.to/">小野秀一。画伯</a>・作</th>
+<th>[東野プール画伯](http://poolhool.jp/)・作</th>
+<th>[tomioka2画伯](http://tomioka2.huruike.com/)・作</th>
+<th>[はじめ画伯](http://blog.kansai.com/weblog_55)・作</th>
+<th>[小野秀一。画伯](http://mac.gn.to/)・作</th>
 </tr>
 <tr>
 <td><a href="{{ '/photo/326388559_232.jpg' | relative_url }}"><img src="{{ '/photo/326388559_232.jpg' | relative_url }}" alt="護法少女ソワカちゃん" loading="lazy" /></a></td>
@@ -67,10 +67,10 @@ title: 'ソワカちゃん信徒のページ'
 <td><a href="{{ '/photo/335318247_221.jpg' | relative_url }}"><img src="{{ '/photo/335318247_221.jpg' | relative_url }}" alt="護法少女ソワカちゃん" loading="lazy" /></a></td>
 </tr>
 <tr>
-<th><a href="http://isiisister.blog3.fc2.com/">lope画伯</a>・作</th>
+<th>[lope画伯](http://isiisister.blog3.fc2.com/)・作</th>
 <th>がねし画伯・作</th>
-<th><a href="http://piapro.jp/sotya">sotya画伯</a>・作</th>
-<th><a href="http://piapro.jp/sotya">sotya画伯</a>・作</th>
+<th>[sotya画伯](http://piapro.jp/sotya)・作</th>
+<th>[sotya画伯](http://piapro.jp/sotya)・作</th>
 </tr>
 <tr>
 <td><a href="{{ '/photo/339852888_170.jpg' | relative_url }}"><img src="{{ '/photo/339852888_170.jpg' | relative_url }}" alt="護法少女ソワカちゃん" loading="lazy" /></a></td>
@@ -79,9 +79,9 @@ title: 'ソワカちゃん信徒のページ'
 <td><a href="{{ '/photo/200712170125.jpg' | relative_url }}"><img src="{{ '/photo/200712170125.jpg' | relative_url }}" alt="護法少女ソワカちゃん" loading="lazy" /></a></td>
 </tr>
 <tr>
-<th><a href="http://tomioka2.huruike.com/">tomioka2画伯</a>・作</th>
-<th><a href="http://yamino.bushou.jp/">闇野画伯</a>・作</th>
-<th><a href="http://kir-rin.sakura.ne.jp/">きりりん画伯</a>・作</th>
+<th>[tomioka2画伯](http://tomioka2.huruike.com/)・作</th>
+<th>[闇野画伯](http://yamino.bushou.jp/)・作</th>
+<th>[きりりん画伯](http://kir-rin.sakura.ne.jp/)・作</th>
 <th></th>
 </tr>
 <tr>
@@ -92,9 +92,9 @@ title: 'ソワカちゃん信徒のページ'
 </tr>
 </table>
 
-<h2>ソワカちゃん待ち受け画像</h2>
-<p>mixiの<a href="http://mixi.jp/view_community.pl?id=2749241">護法少女ソワカちゃんコミュ</a>でアップされた、携帯待ち受け用の画像ファイルです！</p>
-<p>これでいつでもソワカちゃんと同行二人！？</p>
+## ソワカちゃん待ち受け画像
+mixiの[護法少女ソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)でアップされた、携帯待ち受け用の画像ファイルです！
+これでいつでもソワカちゃんと同行二人！？
 <table class="wiki-table">
 <tr>
 <th>田代さん・作</th>
@@ -108,11 +108,11 @@ title: 'ソワカちゃん信徒のページ'
 </tr>
 </table>
 
-<p>こちらは携帯待ち受け用FLASHです。携帯でDLしやすいようQRコードを付けておきます。</p>
-<p>FlashLite1.1対応の端末で再生できます。対応機種は<a href="http://www.saturn.dti.ne.jp/~npaka/flash/lite10/index.html">こちらでご確認</a>ください。</p>
-<p>また、<a href="{{ '/pages/believer.html' | relative_url }}#gea87181">着うた・着メロ</a>を作られている<a href="{{ '/pages/believer.html' | relative_url }}#gea87181">ブルカニロさん</a>もご自身のサイトで待ち受けFLASHを配布されてます。そちらも<a href="{{ '/pages/believer.html' | relative_url }}#gea87181">要チェック</a>！</p>
-<p>※下のFLASHのうち「虚空蔵からの～」は、AUのみ対応の着FLASHです。</p>
-<p>Docomo,Softbankをお使いの方はQRコードから静止画像をご利用ください。</p>
+こちらは携帯待ち受け用FLASHです。携帯でDLしやすいようQRコードを付けておきます。
+FlashLite1.1対応の端末で再生できます。対応機種は[こちらでご確認](http://www.saturn.dti.ne.jp/~npaka/flash/lite10/index.html)ください。
+また、[着うた・着メロ]({{ '/pages/believer.html' | relative_url }}#gea87181)を作られている[ブルカニロさん]({{ '/pages/believer.html' | relative_url }}#gea87181)もご自身のサイトで待ち受けFLASHを配布されてます。そちらも[要チェック]({{ '/pages/believer.html' | relative_url }}#gea87181)！
+※下のFLASHのうち「虚空蔵からの～」は、AUのみ対応の着FLASHです。
+Docomo,Softbankをお使いの方はQRコードから静止画像をご利用ください。
 <table class="wiki-table">
 <tr>
 <th>wiki管理人・作</th>
@@ -134,30 +134,30 @@ title: 'ソワカちゃん信徒のページ'
 </tr>
 </table>
 
-<h2>ソワカちゃん関連動画</h2>
-<p>ニコニコ動画に護法少女ソワカちゃん関連の動画が沢山アップされています。</p>
-<p><a href="http://www.nicovideo.jp/tag/%E8%AD%B7%E6%B3%95%E5%B0%91%E5%A5%B3%E3%82%BD%E3%83%AF%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93">「護法少女ソワカちゃん」タグ</a>で探してみてください。</p>
-<p>（管理人のマイリストで管理していましたが、ついに非プレミアムの限界数を超えてしまいました…）</p>
-<p>また、有志の方が作成して下さったまとめ動画もあります。チェキラ！</p>
-<p><a href="https://www.nicovideo.jp/watch/sm3156368">Niconico: sm3156368</a></p>
+## ソワカちゃん関連動画
+ニコニコ動画に護法少女ソワカちゃん関連の動画が沢山アップされています。
+[「護法少女ソワカちゃん」タグ](http://www.nicovideo.jp/tag/%E8%AD%B7%E6%B3%95%E5%B0%91%E5%A5%B3%E3%82%BD%E3%83%AF%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93)で探してみてください。
+（管理人のマイリストで管理していましたが、ついに非プレミアムの限界数を超えてしまいました…）
+また、有志の方が作成して下さったまとめ動画もあります。チェキラ！
+[Niconico: sm3156368](https://www.nicovideo.jp/watch/sm3156368)
 
-<p>それから下はwiki管理人が個人的にお気に入りの作品です。こちらもよかったら、ご覧ください。</p>
-<p><a href="https://www.nicovideo.jp/watch/sm2036665">Niconico: sm2036665</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2164946">Niconico: sm2164946</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2215933">Niconico: sm2215933</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2276152">Niconico: sm2276152</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2352099">Niconico: sm2352099</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2567102">Niconico: sm2567102</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2574440">Niconico: sm2574440</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2574560">Niconico: sm2574560</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2618552">Niconico: sm2618552</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2619358">Niconico: sm2619358</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm2954341">Niconico: sm2954341</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm3051034">Niconico: sm3051034</a></p>
-<p><a href="https://www.nicovideo.jp/watch/nm3266895">Niconico: nm3266895</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm3285071">Niconico: sm3285071</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm3440642">Niconico: sm3440642</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm3640744">Niconico: sm3640744</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm3699970">Niconico: sm3699970</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm3867533">Niconico: sm3867533</a></p>
-<p><a href="https://www.nicovideo.jp/watch/sm3890659">Niconico: sm3890659</a></p>
+それから下はwiki管理人が個人的にお気に入りの作品です。こちらもよかったら、ご覧ください。
+[Niconico: sm2036665](https://www.nicovideo.jp/watch/sm2036665)
+[Niconico: sm2164946](https://www.nicovideo.jp/watch/sm2164946)
+[Niconico: sm2215933](https://www.nicovideo.jp/watch/sm2215933)
+[Niconico: sm2276152](https://www.nicovideo.jp/watch/sm2276152)
+[Niconico: sm2352099](https://www.nicovideo.jp/watch/sm2352099)
+[Niconico: sm2567102](https://www.nicovideo.jp/watch/sm2567102)
+[Niconico: sm2574440](https://www.nicovideo.jp/watch/sm2574440)
+[Niconico: sm2574560](https://www.nicovideo.jp/watch/sm2574560)
+[Niconico: sm2618552](https://www.nicovideo.jp/watch/sm2618552)
+[Niconico: sm2619358](https://www.nicovideo.jp/watch/sm2619358)
+[Niconico: sm2954341](https://www.nicovideo.jp/watch/sm2954341)
+[Niconico: sm3051034](https://www.nicovideo.jp/watch/sm3051034)
+[Niconico: nm3266895](https://www.nicovideo.jp/watch/nm3266895)
+[Niconico: sm3285071](https://www.nicovideo.jp/watch/sm3285071)
+[Niconico: sm3440642](https://www.nicovideo.jp/watch/sm3440642)
+[Niconico: sm3640744](https://www.nicovideo.jp/watch/sm3640744)
+[Niconico: sm3699970](https://www.nicovideo.jp/watch/sm3699970)
+[Niconico: sm3867533](https://www.nicovideo.jp/watch/sm3867533)
+[Niconico: sm3890659](https://www.nicovideo.jp/watch/sm3890659)

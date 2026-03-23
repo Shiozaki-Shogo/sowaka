@@ -131,14 +131,14 @@ function Convert-Inline {
     param($m)
     $label = $m.Groups[1].Value
     $url = $m.Groups[2].Value
-    return "<a href=""$url"">$label</a>"
+    return "[$label]($url)"
   })
 
   $out = [regex]::Replace($out, "\[\[([^>\]]+)>((?:https?|ftp)://[^\]]+)\]\]", {
     param($m)
     $label = $m.Groups[1].Value
     $url = $m.Groups[2].Value
-    return "<a href=""$url"">$label</a>"
+    return "[$label]($url)"
   })
 
   $out = [regex]::Replace($out, "\[\[([^>\]]+)>([^\]]+)\]\]", {
@@ -146,7 +146,7 @@ function Convert-Inline {
     $label = $m.Groups[1].Value
     $target = $m.Groups[2].Value
     if ($PageMap.ContainsKey($target)) {
-      return "<a href=""$($PageMap[$target])"">$label</a>"
+      return "[$label]($($PageMap[$target]))"
     }
     return $label
   })
@@ -155,7 +155,7 @@ function Convert-Inline {
     param($m)
     $target = $m.Groups[1].Value
     if ($PageMap.ContainsKey($target)) {
-      return "<a href=""$($PageMap[$target])"">$target</a>"
+      return "[$target]($($PageMap[$target]))"
     }
     return $target
   })
@@ -182,8 +182,8 @@ function Convert-Inline {
     return ""
   })
 
-  $out = [regex]::Replace($out, "''(.*?)''", '<strong>$1</strong>')
-  $out = [regex]::Replace($out, "&#39;&#39;(.*?)&#39;&#39;", '<strong>$1</strong>')
+  $out = [regex]::Replace($out, "''(.*?)''", '**$1**')
+  $out = [regex]::Replace($out, "&#39;&#39;(.*?)&#39;&#39;", '**$1**')
   $out = [regex]::Replace($out, "&amp;br;", "<br />")
 
   $out = [regex]::Replace($out, "&amp;color\(([^)]+)\)\{(.*?)\};", {
@@ -206,8 +206,6 @@ function Convert-Inline {
     if ($sz -match "^\d+$") { $sz = "$sz" + "px" }
     return "<span style=""font-size:$sz;"">$($m.Groups[2].Value)</span>"
   })
-
-  $out = [regex]::Replace($out, '(?<!["''<>])(https?://[^\s<]+)', '<a href="$1">$1</a>')
 
   $out = [regex]::Replace($out, 'https?://sowaka\.s-dog\.net/([A-Za-z0-9._\-]+\.html)', {
     param($m)
@@ -242,7 +240,15 @@ function Rewrite-LegacySiteLinks {
     if ($LegacyLinkMap.ContainsKey($key)) { return $LegacyLinkMap[$key] }
     return $m.Value
   })
+  $text = [regex]::Replace($text, '\(https?://sowaka\.s-dog\.net/(photo|image|attach|character)/([^)]+)\)', {
+    param($m)
+    $dir = $m.Groups[1].Value
+    $name = $m.Groups[2].Value
+    return "({{ '/$dir/$name' | relative_url }})"
+  })
+  $text = [regex]::Replace($text, '\(https?://sowaka\.s-dog\.net/\)', "({{ '/' | relative_url }})")
   $text = [regex]::Replace($text, 'href="https?://sowaka\.s-dog\.net/"', 'href="{{ ''/'' | relative_url }}"')
+  $text = [regex]::Replace($text, 'https?://sowaka\.s-dog\.net/', "{{ '/' | relative_url }}")
   return $text
 }
 
@@ -278,7 +284,7 @@ function Render-Body {
     if ($trimmed -match "^>(.+)$") {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
       $qText = Convert-Inline -Text $matches[1].Trim() -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
-      [void]$sb.AppendLine("<blockquote><p>$qText</p></blockquote>")
+      [void]$sb.AppendLine("> $qText")
       continue
     }
     if ($trimmed -eq "<") {
@@ -290,7 +296,7 @@ function Render-Body {
     if ($line -match "^#nicovideo\(([^)]+)\)") {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
       $id = ($matches[1] -split ",")[0].Trim()
-      [void]$sb.AppendLine("<p><a href=""https://www.nicovideo.jp/watch/$id"">Niconico: $id</a></p>")
+      [void]$sb.AppendLine("[Niconico: $id](https://www.nicovideo.jp/watch/$id)")
       continue
     }
     if ($line -match "^#youtube\(([^)]+)\)") {
@@ -303,7 +309,7 @@ function Render-Body {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
       $parts = $matches[1] -split ","
       $url = $parts[0].Trim()
-      if ($url -match "^https?://") { [void]$sb.AppendLine("<p><a href=""$url"">$url</a></p>") }
+      if ($url -match "^https?://") { [void]$sb.AppendLine("[$url]($url)") }
       continue
     }
 
@@ -313,7 +319,7 @@ function Render-Body {
     if ($line -match "^#ref\((.+)\)\s*$") {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
       $refHtml = Render-RefTag -ArgsRaw $matches[1]
-      if ($refHtml -ne "") { [void]$sb.AppendLine("<p>$refHtml</p>") }
+      if ($refHtml -ne "") { [void]$sb.AppendLine($refHtml) }
       continue
     }
 
@@ -349,27 +355,28 @@ function Render-Body {
       $lv = $matches[1].Length
       $text = $matches[2] -replace "\s*\[#[-A-Za-z0-9_]+\]\s*$", ""
       $text = Convert-Inline -Text $text -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
-      [void]$sb.AppendLine("<h$lv>$text</h$lv>")
+      $hashes = "#" * $lv
+      [void]$sb.AppendLine("$hashes $text")
       continue
     }
 
     if ($line -match "^-(.+)$") {
-      if (-not $inUl) { Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable); [void]$sb.AppendLine("<ul>"); $inUl = $true }
+      Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
       $text = Convert-Inline -Text ($matches[1].Trim()) -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
-      [void]$sb.AppendLine("<li>$text</li>")
+      [void]$sb.AppendLine("- $text")
       continue
     }
 
     if ($line -match "^\+(.+)$") {
-      if (-not $inOl) { Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable); [void]$sb.AppendLine("<ol>"); $inOl = $true }
+      Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
       $text = Convert-Inline -Text ($matches[1].Trim()) -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
-      [void]$sb.AppendLine("<li>$text</li>")
+      [void]$sb.AppendLine("1. $text")
       continue
     }
 
     Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
     $text2 = Convert-Inline -Text ($line -replace "~\s*$", "") -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
-    [void]$sb.AppendLine("<p>$text2</p>")
+    [void]$sb.AppendLine($text2)
   }
 
   Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
@@ -480,14 +487,28 @@ Get-ChildItem -Path $sourceWiki -File -Filter "*.txt" | ForEach-Object {
 }
 
 $pages = $pages | Sort-Object Title
+$landing = $pages | Where-Object { $_.Base.ToUpperInvariant() -eq $LandingPageBaseName.ToUpperInvariant() } | Select-Object -First 1
+$contentPages = $pages
+if ($null -ne $landing) {
+  $contentPages = $pages | Where-Object { $_.Base.ToUpperInvariant() -ne $LandingPageBaseName.ToUpperInvariant() }
+}
+
 $pageMap = @{}
 foreach ($p in $pages) {
-  $pageMap[$p.Title] = "{{ '/pages/$($p.Slug).html' | relative_url }}"
+  if ($null -ne $landing -and $p.Base.ToUpperInvariant() -eq $LandingPageBaseName.ToUpperInvariant()) {
+    $pageMap[$p.Title] = "{{ '/' | relative_url }}"
+  } else {
+    $pageMap[$p.Title] = "{{ '/pages/$($p.Slug).html' | relative_url }}"
+  }
 }
 
 $legacyLinkMap = @{}
 foreach ($p in $pages) {
-  $legacyLinkMap[("$($p.Slug).html").ToLowerInvariant()] = "{{ '/pages/$($p.Slug).html' | relative_url }}"
+  if ($null -ne $landing -and $p.Base.ToUpperInvariant() -eq $LandingPageBaseName.ToUpperInvariant()) {
+    $legacyLinkMap[("$($p.Slug).html").ToLowerInvariant()] = "{{ '/' | relative_url }}"
+  } else {
+    $legacyLinkMap[("$($p.Slug).html").ToLowerInvariant()] = "{{ '/pages/$($p.Slug).html' | relative_url }}"
+  }
 }
 foreach ($kv in $aliasByPage.GetEnumerator()) {
   $title = [string]$kv.Key
@@ -499,7 +520,7 @@ foreach ($kv in $aliasByPage.GetEnumerator()) {
   }
 }
 
-foreach ($p in $pages) {
+foreach ($p in $contentPages) {
   $lines = [System.IO.File]::ReadAllLines($p.SourcePath, [System.Text.Encoding]::UTF8)
   $body = Render-Body -Lines $lines -PageMap $pageMap -LegacyLinkMap $legacyLinkMap
   $body = Rewrite-LegacySiteLinks -Html $body -LegacyLinkMap $legacyLinkMap
@@ -518,8 +539,7 @@ $body
   [System.IO.File]::WriteAllText($p.OutPath, $md, [System.Text.Encoding]::UTF8)
 }
 
-$landing = $pages | Where-Object { $_.Base.ToUpperInvariant() -eq $LandingPageBaseName.ToUpperInvariant() } | Select-Object -First 1
-$listItems = ($pages | ForEach-Object {
+$listItems = ($contentPages | ForEach-Object {
   "- [$($_.Title)]($($pageMap[$_.Title]))"
 }) -join "`n"
 
@@ -541,7 +561,7 @@ $landingBody
 
 ## Pages
 
-Total: $($pages.Count) pages
+Total: $($contentPages.Count) pages
 
 $listItems
 "@
@@ -554,7 +574,7 @@ title: 'sowaka archive'
 
 ## Pages
 
-Total: $($pages.Count) pages
+Total: $($contentPages.Count) pages
 
 $listItems
 "@
@@ -642,8 +662,8 @@ blockquote {
 '@
 [System.IO.File]::WriteAllText((Join-Path $OutputDir "styles.css"), $styles, [System.Text.Encoding]::UTF8)
 
-$meta = $pages | Select-Object Title, Base, Slug, RelMdPath
+$meta = $contentPages | Select-Object Title, Base, Slug, RelMdPath
 $metaJson = $meta | ConvertTo-Json -Depth 3
 [System.IO.File]::WriteAllText((Join-Path $OutputDir "pages.json"), $metaJson, [System.Text.Encoding]::UTF8)
 
-Write-Host "Generated $($pages.Count) markdown pages into $OutputDir"
+Write-Host "Generated $($contentPages.Count) markdown pages into $OutputDir"

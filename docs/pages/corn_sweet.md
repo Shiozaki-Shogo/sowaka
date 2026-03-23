@@ -5,49 +5,49 @@ title: '彼女はCORN☆SWEET状態'
 
 ## 彼女はCORN☆SWEET状態
 
-<h1>彼女はCORN☆SWEET状態</h1>
-<p>バルドソドルシリーズでおなじみの元アイドル、風呂垢なめ子ちゃんスピンオフ。</p>
-<p>彼女も摩睺羅伽女学院だったんですね。初めてMMDを使用しての動画でもあるそうです。</p>
-<p></p>
-<p></p>
-<h2>動画</h2>
-<h3>ニコニコ動画</h3>
-<p><a href="https://www.nicovideo.jp/watch/sm22733710">Niconico: sm22733710</a></p>
-<p>//*** Youtube</p>
-<p>//#youtube(FoZDz8m-mw8)</p>
+# 彼女はCORN☆SWEET状態
+バルドソドルシリーズでおなじみの元アイドル、風呂垢なめ子ちゃんスピンオフ。
+彼女も摩睺羅伽女学院だったんですね。初めてMMDを使用しての動画でもあるそうです。
 
-<h2>歌詞</h2>
-<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm22733710）">http://www.nicovideo.jp/watch/sm22733710）</a></p>
-<p></p>
-<p><strong>彼女はCORN☆SWEET状態</strong></p>
-<p></p>
-<p>先週の水曜日</p>
-<p>八百屋の車にはねられて</p>
-<p>電信柱に頭をぶつけて</p>
-<p>君の意識は戻らなくなったんだ</p>
-<p></p>
-<p>医者先生の話によれば</p>
-<p>回復の見込みはほぼゼロらしい</p>
-<p>病院のベッドで眠る君とは</p>
-<p>もう言葉を交わせない</p>
-<p></p>
-<p>正直うっとうしいと思っていたよ</p>
-<p>だけど今の君は無口さ</p>
-<p></p>
-<p>彼女は</p>
-<p></p>
-<p>CORN☆SWEET状態</p>
-<p>CORN☆SWEET状態</p>
-<p></p>
-<p>花々に囲まれ静かに眠るよ</p>
-<p></p>
-<p>CORN☆SWEET状態</p>
-<p>CORN☆SWEET状態</p>
-<p></p>
-<p>SHOCK☆BOOTS状態</p>
-<p>ORDER☆BOOTS状態</p>
-<p></p>
-<p>願いがひとつかなうなら</p>
-<p>あの雲に乗りたい</p>
-<p>今君が好きだよ</p>
-<p></p>
+
+## 動画
+### ニコニコ動画
+[Niconico: sm22733710](https://www.nicovideo.jp/watch/sm22733710)
+//*** Youtube
+//#youtube(FoZDz8m-mw8)
+
+## 歌詞
+記　kihirohito（http://www.nicovideo.jp/watch/sm22733710）
+
+**彼女はCORN☆SWEET状態**
+
+先週の水曜日
+八百屋の車にはねられて
+電信柱に頭をぶつけて
+君の意識は戻らなくなったんだ
+
+医者先生の話によれば
+回復の見込みはほぼゼロらしい
+病院のベッドで眠る君とは
+もう言葉を交わせない
+
+正直うっとうしいと思っていたよ
+だけど今の君は無口さ
+
+彼女は
+
+CORN☆SWEET状態
+CORN☆SWEET状態
+
+花々に囲まれ静かに眠るよ
+
+CORN☆SWEET状態
+CORN☆SWEET状態
+
+SHOCK☆BOOTS状態
+ORDER☆BOOTS状態
+
+願いがひとつかなうなら
+あの雲に乗りたい
+今君が好きだよ
+
