@@ -1,0 +1,44 @@
+﻿---
+layout: default
+title: 'ＩＮＧＥ ～謎に包まれた生命体～'
+---
+
+## ＩＮＧＥ ～謎に包まれた生命体～
+
+<h1>ＩＮＧＥ ～謎に包まれた生命体～</h1>
+<p>何処にでも姿を現す謎の生命体、「ＩＮＧＥ」とはっ……！？</p>
+<p>誰でも簡単にマンガが描けるツール・<a href="http://www.comipo.com/">コミPo!</a>と<a href="http://www.ah-soft.com/vocaloid/kiyoteru/">ボカロ先生『氷山キヨテル』</a>で作られた動画です。</p>
+<p>特撮ヒーローものの主題歌のような疾走感ですね。（注釈はありません）</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm13400054">Niconico: sm13400054</a></p>
+<p>//*** Youtube [#sb79624a]</p>
+<p>//#youtube(FoZDz8m-mw8)</p>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm13400054）">http://www.nicovideo.jp/watch/sm13400054）</a></p>
+<p></p>
+<p><strong>ＩＮＧＥ ～謎に包まれた生命体～</strong></p>
+<p></p>
+<p>君はその存在に果たして気づいているか？</p>
+<p>僕らの日常に忍び寄る影に</p>
+<p>それは細長く黒い縮れた物体</p>
+<p>予想もしない場所で遭遇する</p>
+<p></p>
+<p>マウスの上</p>
+<p>冷蔵庫の中</p>
+<p>ＯＬの肩</p>
+<p>中華の円卓</p>
+<p></p>
+<p>ＩＮＧＥ</p>
+<p></p>
+<p>それは意志を持つ生命体さ</p>
+<p>あらゆるところに現れる</p>
+<p></p>
+<p>ＩＮＧＥ</p>
+<p></p>
+<p>やつらを一網打尽にするのさ</p>
+<p>この手に握りしめた</p>
+<p>コロコロ&amp;reg;で</p>
+<p></p>

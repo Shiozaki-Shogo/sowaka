@@ -1,0 +1,51 @@
+﻿---
+layout: default
+title: 'Home Sweet Homicide'
+---
+
+## Home Sweet Homicide
+
+<h1>Home Sweet Homicide</h1>
+<p>『<a href="http://www.nicovideo.jp/mylist/4414387">夢の旧作</a>』シリーズ、第８弾！</p>
+<p>愛に包まれた暖かな家庭を歌い上げたハートウォーミングなナンバーです。</p>
+<p>（今回も注釈ページはありません）</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm5630317">Niconico: sm5630317</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/4ISwOAEh4-s" title="YouTube 4ISwOAEh4-s" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm5630317）">http://www.nicovideo.jp/watch/sm5630317）</a></p>
+
+<p><strong>Home Sweet Homicide</strong></p>
+<p></p>
+<p>首から名札を下げたまま卵の中へ</p>
+<p>Reversed Evolution</p>
+<p>全知全能なんてよくあるスキル</p>
+<p></p>
+<p>泳ぐ目線の裏側に何も持たない</p>
+<p>Vacant Generation</p>
+<p>はだかの脳みそを母親にねだる</p>
+<p></p>
+<p>Home Sweet Homicide</p>
+<p></p>
+<p>そして夕餉の食卓に真っ赤な花が</p>
+<p>Easy Solution</p>
+<p>家庭の幸福は諸悪の根源</p>
+<p></p>
+<p>割れた鏡に映るのは壊れた笑顔</p>
+<p>Human Revolution</p>
+<p>全ての憎悪は近親憎悪</p>
+<p></p>
+<p>Home Sweet Homicide</p>
+<p></p>
+<p>右手首をひねるたびに一切は済し崩される</p>
+<p>裏から見たひしゃげた空 この愛を歌うよ</p>
+<p></p>
+<p></p>
+<p>首から名札を下げたまま…</p>
+<p>割れた鏡に映るのは…</p>
+<p></p>
+<p>Home Sweet Homicide</p>

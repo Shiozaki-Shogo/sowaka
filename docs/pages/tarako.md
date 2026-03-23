@@ -1,0 +1,30 @@
+﻿---
+layout: default
+title: 'タラコの世界'
+---
+
+## タラコの世界
+
+<h1>タラコの世界</h1>
+<p>やっぱり始まりました、中二シリーズ！</p>
+<p><a href="http://blogs.yahoo.co.jp/sowaka_chan/22243319.html">ご本人のブログによると「リアル中二が作った無意味な曲を幾星霜の歳月を経て無意味にアレンジ」</a>だそうです。</p>
+<p>「だめね ぼんおどり」と同じく『<a href="http://www.nicovideo.jp/mylist/4414387">夢の旧作</a>』シリーズとしての扱いとなります。</p>
+<p>（今回も注釈ページはありません）</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm5688837">Niconico: sm5688837</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/XlxkXiE9ZiA" title="YouTube XlxkXiE9ZiA" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm5688837）">http://www.nicovideo.jp/watch/sm5688837）</a></p>
+
+<p><strong>タラコの世界</strong></p>
+<p></p>
+<p>（新しい秩序　タラコの世界）</p>
+<p></p>
+<p>たらこ　たらこ　たらこ</p>
+<p>まちの　あかり　きれい</p>
+<p>おのの　いもこ　いもこ</p>
+<p>そがの　うまこ　いもこ</p>

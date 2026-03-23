@@ -1,0 +1,56 @@
+﻿---
+layout: default
+title: '一蓮托生なり三兄弟　護法少女ソワカちゃん'
+---
+
+## 一蓮托生なり三兄弟　護法少女ソワカちゃん
+
+<h1>一蓮托生なり三兄弟　護法少女ソワカちゃん</h1>
+<p>まさかのキャラクター・ソング、あの三兄弟は如何にして汚れたか…？</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm2215985">Niconico: sm2215985</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/Bh9NEnxvx64" title="YouTube Bh9NEnxvx64" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm2215985）">http://www.nicovideo.jp/watch/sm2215985）</a></p>
+
+<p><strong>一蓮托生なり三兄弟</strong></p>
+<p></p>
+<p>ゆあーん　ゆよーん　ゆやゆよん</p>
+<p>ゆあーん　ゆよーん　ゆやゆよん</p>
+<p></p>
+<p>ルビコンのほとりに捨てられて</p>
+<p>貧しく育った三兄弟</p>
+<p>爛れたこの世の片隅で</p>
+<p>一攫千金の夢を見る</p>
+<p></p>
+<p>三人でやっと貯めたお金で</p>
+<p>フランチャイズの店を持つ</p>
+<p>本部の意向に沿いつつも</p>
+<p>この店独自の品揃え</p>
+<p></p>
+<p>マニアの間で人気を呼ぶ</p>
+<p>ここまでは順風満帆に思えた</p>
+<p></p>
+<p>ゆあーん　ゆよーん　ゆやゆよん</p>
+<p>ゆあーん　ゆよーん　ゆやゆよん</p>
+<p></p>
+<p>ゆあーんがある日仕入れてきた</p>
+<p>一本の怪しげなビデオ</p>
+<p>商品チェックの最中に</p>
+<p>三兄弟は汚染された</p>
+<p></p>
+<p>ゆあーんはそれから酒に溺れ</p>
+<p>ゆよーんは日がなギャンブル三昧</p>
+<p>ゆやゆよんは狂ったかのように</p>
+<p>リリアンを編み続ける毎日</p>
+<p></p>
+<p>本部へ納める金に手をつける</p>
+<p>そこからは坂道を転がるが如し</p>
+
+
+<h2>注釈</h2>
+<p>由来・元ネタに興味のある方は<a href="{{ '/pages/ichiren_notes.html' | relative_url }}">一蓮托生なり三兄弟　護法少女ソワカちゃん・注釈</a>をご覧下さい。</p>

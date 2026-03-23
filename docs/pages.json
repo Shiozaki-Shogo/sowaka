@@ -2,636 +2,763 @@
     {
         "Title":  "【歌ってみた】千々石ミゲル友の会のテーマ",
         "Base":  "E38090E6AD8CE381A3E381A6E381BFE3819FE38091E58D83E38085E79FB3E3839FE382B2E383ABE58F8BE381AEE4BC9AE381AEE38386E383BCE3839E",
-        "RelPath":  "pages/e38090e6ad8ce381a3e381a6e381bfe3819fe38091e58d83e38085e79fb3e3839fe382b2e383abe58f8be381aee4bc9ae381aee38386e383bce3839e.html"
+        "Slug":  "sing_miguel",
+        "RelMdPath":  "pages/sing_miguel.md"
     },
     {
         "Title":  "Bamboo Blossoms",
         "Base":  "42616D626F6F20426C6F73736F6D73",
-        "RelPath":  "pages/42616d626f6f20426c6f73736f6d73.html"
+        "Slug":  "bamboo_blossoms",
+        "RelMdPath":  "pages/bamboo_blossoms.md"
     },
     {
         "Title":  "Home Sweet Homicide",
         "Base":  "486F6D6520537765657420486F6D6963696465",
-        "RelPath":  "pages/486f6d6520537765657420486f6d6963696465.html"
+        "Slug":  "homicide",
+        "RelMdPath":  "pages/homicide.md"
     },
     {
         "Title":  "ＩＮＧＥ ～謎に包まれた生命体～",
         "Base":  "EFBCA9EFBCAEEFBCA7EFBCA520EFBD9EE8AC8EE381ABE58C85E381BEE3828CE3819FE7949FE591BDE4BD93EFBD9E",
-        "RelPath":  "pages/efbca9efbcaeefbca7efbca520efbd9ee8ac8ee381abe58c85e381bee3828ce3819fe7949fe591bde4bd93efbd9e.html"
+        "Slug":  "inge",
+        "RelMdPath":  "pages/inge.md"
     },
     {
         "Title":  "Le Printemps à Pékin",
         "Base":  "4C65205072696E74656D707320C3A02050C3A96B696E",
-        "RelPath":  "pages/4c65205072696e74656d707320c3a02050c3a96b696e.html"
+        "Slug":  "pekin",
+        "RelMdPath":  "pages/pekin.md"
     },
     {
         "Title":  "MenuBar",
         "Base":  "4D656E75426172",
-        "RelPath":  "pages/4d656e75426172.html"
+        "Slug":  "menubar",
+        "RelMdPath":  "pages/menubar.md"
     },
     {
         "Title":  "Never Promised Land",
         "Base":  "4E657665722050726F6D69736564204C616E64",
-        "RelPath":  "pages/4e657665722050726f6d69736564204c616e64.html"
+        "Slug":  "npl",
+        "RelMdPath":  "pages/npl.md"
     },
     {
         "Title":  "PSYCHO ROMANCE",
         "Base":  "50535943484F20524F4D414E4345",
-        "RelPath":  "pages/50535943484f20524f4d414e4345.html"
+        "Slug":  "psychoro",
+        "RelMdPath":  "pages/psychoro.md"
     },
     {
         "Title":  "SMI2LE AGAIN",
         "Base":  "534D49324C4520414741494E",
-        "RelPath":  "pages/534d49324c4520414741494e.html"
+        "Slug":  "smi2le",
+        "RelMdPath":  "pages/smi2le.md"
     },
     {
         "Title":  "あなたも☆になれる",
         "Base":  "E38182E381AAE3819FE38282E29886E381ABE381AAE3828CE3828B",
-        "RelPath":  "pages/e38182e381aae3819fe38282e29886e381abe381aae3828ce3828b.html"
+        "Slug":  "star",
+        "RelMdPath":  "pages/star.md"
     },
     {
         "Title":  "アビサス・アビサム",
         "Base":  "E382A2E38393E382B5E382B9E383BBE382A2E38393E382B5E383A0",
-        "RelPath":  "pages/e382a2e38393e382b5e382b9e383bbe382a2e38393e382b5e383a0.html"
+        "Slug":  "abyssus",
+        "RelMdPath":  "pages/abyssus.md"
     },
     {
         "Title":  "イヨマンテの夜",
         "Base":  "E382A4E383A8E3839EE383B3E38386E381AEE5A49C",
-        "RelPath":  "pages/e382a4e383a8e3839ee383b3e38386e381aee5a49c.html"
+        "Slug":  "iyomante",
+        "RelMdPath":  "pages/iyomante.md"
     },
     {
         "Title":  "お前の年収低すぎ",
         "Base":  "E3818AE5898DE381AEE5B9B4E58F8EE4BD8EE38199E3818E",
-        "RelPath":  "pages/e3818ae5898de381aee5b9b4e58f8ee4bd8ee38199e3818e.html"
+        "Slug":  "nensyuu",
+        "RelMdPath":  "pages/nensyuu.md"
     },
     {
         "Title":  "キャラクター紹介",
         "Base":  "E382ADE383A3E383A9E382AFE382BFE383BCE7B4B9E4BB8B",
-        "RelPath":  "pages/e382ade383a3e383a9e382afe382bfe383bce7b4b9e4bb8b.html"
+        "Slug":  "character",
+        "RelMdPath":  "pages/character.md"
     },
     {
         "Title":  "コードネームは赤い数珠　護法少女ソワカちゃん",
         "Base":  "E382B3E383BCE38389E3838DE383BCE383A0E381AFE8B5A4E38184E695B0E78FA0E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293",
-        "RelPath":  "pages/e382b3e383bce38389e3838de383bce383a0e381afe8b5a4e38184e695b0e78fa0e38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293.html"
+        "Slug":  "codename",
+        "RelMdPath":  "pages/codename.md"
     },
     {
         "Title":  "コードネームは赤い数珠　護法少女ソワカちゃん・注釈",
         "Base":  "E382B3E383BCE38389E3838DE383BCE383A0E381AFE8B5A4E38184E695B0E78FA0E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E383BBE6B3A8E98788",
-        "RelPath":  "pages/e382b3e383bce38389e3838de383bce383a0e381afe8b5a4e38184e695b0e78fa0e38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e383bbe6b3a8e98788.html"
+        "Slug":  "codename_notes",
+        "RelMdPath":  "pages/codename_notes.md"
     },
     {
         "Title":  "ご意見・ご要望など",
         "Base":  "E38194E6848FE8A68BE383BBE38194E8A681E69C9BE381AAE381A9",
-        "RelPath":  "pages/e38194e6848fe8a68be383bbe38194e8a681e69c9be381aae381a9.html"
+        "Slug":  "comment",
+        "RelMdPath":  "pages/comment.md"
     },
     {
         "Title":  "さよならワールド世界",
         "Base":  "E38195E38288E381AAE38289E383AFE383BCE383ABE38389E4B896E7958C",
-        "RelPath":  "pages/e38195e38288e381aae38289e383afe383bce383abe38389e4b896e7958c.html"
+        "Slug":  "goodbye_world",
+        "RelMdPath":  "pages/goodbye_world.md"
     },
     {
         "Title":  "しぜん大好き",
         "Base":  "E38197E3819CE38293E5A4A7E5A5BDE3818D",
-        "RelPath":  "pages/e38197e3819ce38293e5a4a7e5a5bde3818d.html"
+        "Slug":  "shizen",
+        "RelMdPath":  "pages/shizen.md"
     },
     {
         "Title":  "ソワカちゃんスレ過去ログ保管庫",
         "Base":  "E382BDE383AFE382ABE381A1E38283E38293E382B9E383ACE9818EE58EBBE383ADE382B0E4BF9DE7AEA1E5BAAB",
-        "RelPath":  "pages/e382bde383afe382abe381a1e38283e38293e382b9e383ace9818ee58ebbe383ade382b0e4bf9de7aea1e5baab.html"
+        "Slug":  "2chlog",
+        "RelMdPath":  "pages/2chlog.md"
     },
     {
         "Title":  "ソワカちゃん音頭",
         "Base":  "E382BDE383AFE382ABE381A1E38283E38293E99FB3E9A0AD",
-        "RelPath":  "pages/e382bde383afe382abe381a1e38283e38293e99fb3e9a0ad.html"
+        "Slug":  "ondo",
+        "RelMdPath":  "pages/ondo.md"
     },
     {
         "Title":  "ソワカちゃん音頭・注釈",
         "Base":  "E382BDE383AFE382ABE381A1E38283E38293E99FB3E9A0ADE383BBE6B3A8E98788",
-        "RelPath":  "pages/e382bde383afe382abe381a1e38283e38293e99fb3e9a0ade383bbe6b3a8e98788.html"
+        "Slug":  "ondo_notes",
+        "RelMdPath":  "pages/ondo_notes.md"
     },
     {
         "Title":  "ソワカちゃん信徒のページ",
         "Base":  "E382BDE383AFE382ABE381A1E38283E38293E4BFA1E5BE92E381AEE3839AE383BCE382B8",
-        "RelPath":  "pages/e382bde383afe382abe381a1e38283e38293e4bfa1e5be92e381aee3839ae383bce382b8.html"
+        "Slug":  "believer",
+        "RelMdPath":  "pages/believer.md"
     },
     {
         "Title":  "ソワカちゃん疏鈔",
         "Base":  "E382BDE383AFE382ABE381A1E38283E38293E7968FE98894",
-        "RelPath":  "pages/e382bde383afe382abe381a1e38283e38293e7968fe98894.html"
+        "Slug":  "sowaka-shosho",
+        "RelMdPath":  "pages/sowaka-shosho.md"
     },
     {
         "Title":  "ソワカレンダー",
         "Base":  "E382BDE383AFE382ABE383ACE383B3E38380E383BC",
-        "RelPath":  "pages/e382bde383afe382abe383ace383b3e38380e383bc.html"
+        "Slug":  "calendar",
+        "RelMdPath":  "pages/calendar.md"
     },
     {
         "Title":  "そんなところに神は宿らない",
         "Base":  "E3819DE38293E381AAE381A8E38193E3828DE381ABE7A59EE381AFE5AEBFE38289E381AAE38184",
-        "RelPath":  "pages/e3819de38293e381aae381a8e38193e3828de381abe7a59ee381afe5aebfe38289e381aae38184.html"
+        "Slug":  "sonnna",
+        "RelMdPath":  "pages/sonnna.md"
     },
     {
         "Title":  "そんなところに神は宿らない・注釈",
         "Base":  "E3819DE38293E381AAE381A8E38193E3828DE381ABE7A59EE381AFE5AEBFE38289E381AAE38184E383BBE6B3A8E98788",
-        "RelPath":  "pages/e3819de38293e381aae381a8e38193e3828de381abe7a59ee381afe5aebfe38289e381aae38184e383bbe6b3a8e98788.html"
+        "Slug":  "sonnna_notes",
+        "RelMdPath":  "pages/sonnna_notes.md"
     },
     {
         "Title":  "だめね ぼんおどり",
         "Base":  "E381A0E38281E381AD20E381BCE38293E3818AE381A9E3828A",
-        "RelPath":  "pages/e381a0e38281e381ad20e381bce38293e3818ae381a9e3828a.html"
+        "Slug":  "damene",
+        "RelMdPath":  "pages/damene.md"
     },
     {
         "Title":  "タラコの世界",
         "Base":  "E382BFE383A9E382B3E381AEE4B896E7958C",
-        "RelPath":  "pages/e382bfe383a9e382b3e381aee4b896e7958c.html"
+        "Slug":  "tarako",
+        "RelMdPath":  "pages/tarako.md"
     },
     {
         "Title":  "ひくくとべ",
         "Base":  "E381B2E3818FE3818FE381A8E381B9",
-        "RelPath":  "pages/e381b2e3818fe3818fe381a8e381b9.html"
+        "Slug":  "hikukutobe",
+        "RelMdPath":  "pages/hikukutobe.md"
     },
     {
         "Title":  "フォーク並びを徹底してほしい",
         "Base":  "E38395E382A9E383BCE382AFE4B8A6E381B3E38292E5BEB9E5BA95E38197E381A6E381BBE38197E38184",
-        "RelPath":  "pages/e38395e382a9e383bce382afe4b8a6e381b3e38292e5beb9e5ba95e38197e381a6e381bbe38197e38184.html"
+        "Slug":  "forknarabi",
+        "RelMdPath":  "pages/forknarabi.md"
     },
     {
         "Title":  "マシーン・セリバテール",
         "Base":  "E3839EE382B7E383BCE383B3E383BBE382BBE383AAE38390E38386E383BCE383AB",
-        "RelPath":  "pages/e3839ee382b7e383bce383b3e383bbe382bbe383aae38390e38386e383bce383ab.html"
+        "Slug":  "celibataires",
+        "RelMdPath":  "pages/celibataires.md"
     },
     {
         "Title":  "まだ見ぬ世界の帰り道",
         "Base":  "E381BEE381A0E8A68BE381ACE4B896E7958CE381AEE5B8B0E3828AE98193",
-        "RelPath":  "pages/e381bee381a0e8a68be381ace4b896e7958ce381aee5b8b0e3828ae98193.html"
+        "Slug":  "madaminu",
+        "RelMdPath":  "pages/madaminu.md"
     },
     {
         "Title":  "ワイルドで行こう",
         "Base":  "E383AFE382A4E383ABE38389E381A7E8A18CE38193E38186",
-        "RelPath":  "pages/e383afe382a4e383abe38389e381a7e8a18ce38193e38186.html"
+        "Slug":  "born_to_be_wild",
+        "RelMdPath":  "pages/born_to_be_wild.md"
     },
     {
         "Title":  "哀しみ行脚日本海 寄せ鍋Mix",
         "Base":  "E59380E38197E381BFE8A18CE8849AE697A5E69CACE6B5B720E5AF84E3819BE98D8B4D6978",
-        "RelPath":  "pages/e59380e38197e381bfe8a18ce8849ae697a5e69cace6b5b720e5af84e3819be98d8b4d6978.html"
+        "Slug":  "yosenabe",
+        "RelMdPath":  "pages/yosenabe.md"
     },
     {
         "Title":  "愛される犬",
         "Base":  "E6849BE38195E3828CE3828BE78AAC",
-        "RelPath":  "pages/e6849be38195e3828ce3828be78aac.html"
+        "Slug":  "loved_dog",
+        "RelMdPath":  "pages/loved_dog.md"
     },
     {
         "Title":  "一蓮托生なり三兄弟　護法少女ソワカちゃん",
         "Base":  "E4B880E893AEE68998E7949FE381AAE3828AE4B889E58584E5BC9FE38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293",
-        "RelPath":  "pages/e4b880e893aee68998e7949fe381aae3828ae4b889e58584e5bc9fe38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293.html"
+        "Slug":  "ichiren",
+        "RelMdPath":  "pages/ichiren.md"
     },
     {
         "Title":  "一蓮托生なり三兄弟　護法少女ソワカちゃん・注釈",
         "Base":  "E4B880E893AEE68998E7949FE381AAE3828AE4B889E58584E5BC9FE38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E383BBE6B3A8E98788",
-        "RelPath":  "pages/e4b880e893aee68998e7949fe381aae3828ae4b889e58584e5bc9fe38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e383bbe6b3a8e98788.html"
+        "Slug":  "ichiren_notes",
+        "RelMdPath":  "pages/ichiren_notes.md"
     },
     {
         "Title":  "延命",
         "Base":  "E5BBB6E591BD",
-        "RelPath":  "pages/e5bbb6e591bd.html"
+        "Slug":  "enmei",
+        "RelMdPath":  "pages/enmei.md"
     },
     {
         "Title":  "家来",
         "Base":  "E5AEB6E69DA5",
-        "RelPath":  "pages/e5aeb6e69da5.html"
+        "Slug":  "kerai",
+        "RelMdPath":  "pages/kerai.md"
     },
     {
         "Title":  "解剖室",
         "Base":  "E8A7A3E58996E5AEA4",
-        "RelPath":  "pages/e8a7a3e58996e5aea4.html"
+        "Slug":  "kaibou",
+        "RelMdPath":  "pages/kaibou.md"
     },
     {
         "Title":  "海には行かない",
         "Base":  "E6B5B7E381ABE381AFE8A18CE3818BE381AAE38184",
-        "RelPath":  "pages/e6b5b7e381abe381afe8a18ce3818be381aae38184.html"
+        "Slug":  "uminiha",
+        "RelMdPath":  "pages/uminiha.md"
     },
     {
         "Title":  "虚空蔵からのメッセージRemix",
         "Base":  "E8999AE7A9BAE894B5E3818BE38289E381AEE383A1E38383E382BBE383BCE382B852656D6978",
-        "RelPath":  "pages/e8999ae7a9bae894b5e3818be38289e381aee383a1e38383e382bbe383bce382b852656d6978.html"
+        "Slug":  "akasicremix",
+        "RelMdPath":  "pages/akasicremix.md"
     },
     {
         "Title":  "護法少女ソワカちゃんED",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E382934544",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e382934544.html"
+        "Slug":  "ed",
+        "RelMdPath":  "pages/ed.md"
     },
     {
         "Title":  "護法少女ソワカちゃんED(電奇梵唄会Ver)",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293454428E99BBBE5A587E6A2B5E59484E4BC9A56657229",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293454428e99bbbe5a587e6a2b5e59484e4bc9a56657229.html"
+        "Slug":  "bombaye_ed",
+        "RelMdPath":  "pages/bombaye_ed.md"
     },
     {
         "Title":  "護法少女ソワカちゃんED・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E382934544E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e382934544e383bbe6b3a8e98788.html"
+        "Slug":  "ed_notes",
+        "RelMdPath":  "pages/ed_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃんOP",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E382934F50",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e382934f50.html"
+        "Slug":  "op",
+        "RelMdPath":  "pages/op.md"
     },
     {
         "Title":  "護法少女ソワカちゃんOP・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E382934F50E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e382934f50e383bbe6b3a8e98788.html"
+        "Slug":  "op_notes",
+        "RelMdPath":  "pages/op_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１０話（その１）",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC90E8A9B1EFBC88E3819DE381AEEFBC91EFBC89",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc90e8a9b1efbc88e3819de381aeefbc91efbc89.html"
+        "Slug":  "ep10-1",
+        "RelMdPath":  "pages/ep10-1.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１０話（その１）・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC90E8A9B1EFBC88E3819DE381AEEFBC91EFBC89E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc90e8a9b1efbc88e3819de381aeefbc91efbc89e383bbe6b3a8e98788.html"
+        "Slug":  "ep10-1_notes",
+        "RelMdPath":  "pages/ep10-1_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１０話（その２）",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC90E8A9B1EFBC88E3819DE381AEEFBC92EFBC89",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc90e8a9b1efbc88e3819de381aeefbc92efbc89.html"
+        "Slug":  "ep10-2",
+        "RelMdPath":  "pages/ep10-2.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１０話（その２）・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC90E8A9B1EFBC88E3819DE381AEEFBC92EFBC89E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc90e8a9b1efbc88e3819de381aeefbc92efbc89e383bbe6b3a8e98788.html"
+        "Slug":  "ep10-2_notes",
+        "RelMdPath":  "pages/ep10-2_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１１話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC91E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc91e8a9b1.html"
+        "Slug":  "ep11",
+        "RelMdPath":  "pages/ep11.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１１話  feat. Cool Young・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC91E8A9B12020666561742E20436F6F6C20596F756E67E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc91e8a9b12020666561742e20436f6f6c20596f756e67e383bbe6b3a8e98788.html"
+        "Slug":  "11-feat.-cool-young",
+        "RelMdPath":  "pages/11-feat.-cool-young.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１１話 feat. Cool Young",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC91E8A9B120666561742E20436F6F6C20596F756E67",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc91e8a9b120666561742e20436f6f6c20596f756e67.html"
+        "Slug":  "ep11cy",
+        "RelMdPath":  "pages/ep11cy.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１１話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC91E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc91e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep11_notes",
+        "RelMdPath":  "pages/ep11_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１２話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC92E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc92e8a9b1.html"
+        "Slug":  "ep12",
+        "RelMdPath":  "pages/ep12.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１２話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC92E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc92e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep12_notes",
+        "RelMdPath":  "pages/ep12_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１３話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC93E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc93e8a9b1.html"
+        "Slug":  "ep13",
+        "RelMdPath":  "pages/ep13.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１３話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC93E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc93e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep13_notes",
+        "RelMdPath":  "pages/ep13_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１４話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC94E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc94e8a9b1.html"
+        "Slug":  "ep14",
+        "RelMdPath":  "pages/ep14.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１４話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC94E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc94e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep14_notes",
+        "RelMdPath":  "pages/ep14_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１５話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC95E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc95e8a9b1.html"
+        "Slug":  "ep15",
+        "RelMdPath":  "pages/ep15.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１５話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC95E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc95e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep15_notes",
+        "RelMdPath":  "pages/ep15_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１６話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC96E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc96e8a9b1.html"
+        "Slug":  "ep16",
+        "RelMdPath":  "pages/ep16.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１６話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC96E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91efbc96e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep16_notes",
+        "RelMdPath":  "pages/ep16_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１話（その１）",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC91EFBC89",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91e8a9b1efbc88e3819de381aeefbc91efbc89.html"
+        "Slug":  "ep1-1",
+        "RelMdPath":  "pages/ep1-1.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１話（その１）・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC91EFBC89E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91e8a9b1efbc88e3819de381aeefbc91efbc89e383bbe6b3a8e98788.html"
+        "Slug":  "ep1-1_notes",
+        "RelMdPath":  "pages/ep1-1_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１話（その２）",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC92EFBC89",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91e8a9b1efbc88e3819de381aeefbc92efbc89.html"
+        "Slug":  "ep1-2",
+        "RelMdPath":  "pages/ep1-2.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１話（その２）・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC92EFBC89E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91e8a9b1efbc88e3819de381aeefbc92efbc89e383bbe6b3a8e98788.html"
+        "Slug":  "ep1-2_notes",
+        "RelMdPath":  "pages/ep1-2_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１話（その３）",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC93EFBC89",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91e8a9b1efbc88e3819de381aeefbc93efbc89.html"
+        "Slug":  "ep1-3",
+        "RelMdPath":  "pages/ep1-3.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１話（その３）・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC93EFBC89E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91e8a9b1efbc88e3819de381aeefbc93efbc89e383bbe6b3a8e98788.html"
+        "Slug":  "ep1-3_notes",
+        "RelMdPath":  "pages/ep1-3_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１話（その４）",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC94EFBC89",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91e8a9b1efbc88e3819de381aeefbc94efbc89.html"
+        "Slug":  "ep1-4",
+        "RelMdPath":  "pages/ep1-4.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１話（その４）・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC94EFBC89E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc91e8a9b1efbc88e3819de381aeefbc94efbc89e383bbe6b3a8e98788.html"
+        "Slug":  "ep1-4_notes",
+        "RelMdPath":  "pages/ep1-4_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第２話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC92E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc92e8a9b1.html"
+        "Slug":  "ep2",
+        "RelMdPath":  "pages/ep2.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第２話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC92E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc92e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep2_notes",
+        "RelMdPath":  "pages/ep2_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第３話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC93E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc93e8a9b1.html"
+        "Slug":  "ep3",
+        "RelMdPath":  "pages/ep3.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第３話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC93E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc93e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep3_notes",
+        "RelMdPath":  "pages/ep3_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第４話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC94E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc94e8a9b1.html"
+        "Slug":  "ep4",
+        "RelMdPath":  "pages/ep4.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第４話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC94E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc94e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep4_notes",
+        "RelMdPath":  "pages/ep4_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第５話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC95E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc95e8a9b1.html"
+        "Slug":  "ep5",
+        "RelMdPath":  "pages/ep5.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第５話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC95E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc95e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep5_notes",
+        "RelMdPath":  "pages/ep5_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第６話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC96E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc96e8a9b1.html"
+        "Slug":  "ep6",
+        "RelMdPath":  "pages/ep6.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第６話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC96E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc96e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep6_notes",
+        "RelMdPath":  "pages/ep6_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第７話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC97E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc97e8a9b1.html"
+        "Slug":  "ep7",
+        "RelMdPath":  "pages/ep7.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第７話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC97E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc97e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep7_notes",
+        "RelMdPath":  "pages/ep7_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第８話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC98E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc98e8a9b1.html"
+        "Slug":  "ep8",
+        "RelMdPath":  "pages/ep8.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第８話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC98E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc98e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep8_notes",
+        "RelMdPath":  "pages/ep8_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第９話",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC99E8A9B1",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc99e8a9b1.html"
+        "Slug":  "ep9",
+        "RelMdPath":  "pages/ep9.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第９話・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC99E8A9B1E383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e7acacefbc99e8a9b1e383bbe6b3a8e98788.html"
+        "Slug":  "ep9_notes",
+        "RelMdPath":  "pages/ep9_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん電奇梵唄会オープニング",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E99BBBE5A587E6A2B5E59484E4BC9AE382AAE383BCE38397E3838BE383B3E382B0",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e99bbbe5a587e6a2b5e59484e4bc9ae382aae383bce38397e3838be383b3e382b0.html"
+        "Slug":  "bombaye",
+        "RelMdPath":  "pages/bombaye.md"
     },
     {
         "Title":  "護法少女ソワカちゃん年末邪教の祭典スペシャル",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E5B9B4E69CABE982AAE69599E381AEE7A5ADE585B8E382B9E3839AE382B7E383A3E383AB",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e5b9b4e69cabe982aae69599e381aee7a5ade585b8e382b9e3839ae382b7e383a3e383ab.html"
+        "Slug":  "xmas",
+        "RelMdPath":  "pages/xmas.md"
     },
     {
         "Title":  "護法少女ソワカちゃん年末邪教の祭典スペシャル・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E5B9B4E69CABE982AAE69599E381AEE7A5ADE585B8E382B9E3839AE382B7E383A3E383ABE383BBE6B3A8E98788",
-        "RelPath":  "pages/e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e5b9b4e69cabe982aae69599e381aee7a5ade585b8e382b9e3839ae382b7e383a3e383abe383bbe6b3a8e98788.html"
+        "Slug":  "xmas_notes",
+        "RelMdPath":  "pages/xmas_notes.md"
     },
     {
         "Title":  "光あふれる食卓",
         "Base":  "E58589E38182E381B5E3828CE3828BE9A39FE58D93",
-        "RelPath":  "pages/e58589e38182e381b5e3828ce3828be9a39fe58d93.html"
+        "Slug":  "table",
+        "RelMdPath":  "pages/table.md"
     },
     {
         "Title":  "好きよ留学生",
         "Base":  "E5A5BDE3818DE38288E79599E5ADA6E7949F",
-        "RelPath":  "pages/e5a5bde3818de38288e79599e5ada6e7949f.html"
+        "Slug":  "abroad",
+        "RelMdPath":  "pages/abroad.md"
     },
     {
         "Title":  "再生と法滅のあいだ　護法少女ソワカちゃん",
         "Base":  "E5868DE7949FE381A8E6B395E6BB85E381AEE38182E38184E381A0E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293",
-        "RelPath":  "pages/e5868de7949fe381a8e6b395e6bb85e381aee38182e38184e381a0e38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293.html"
+        "Slug":  "saisei",
+        "RelMdPath":  "pages/saisei.md"
     },
     {
         "Title":  "再生と法滅のあいだ　護法少女ソワカちゃん・注釈",
         "Base":  "E5868DE7949FE381A8E6B395E6BB85E381AEE38182E38184E381A0E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E383BBE6B3A8E98788",
-        "RelPath":  "pages/e5868de7949fe381a8e6b395e6bb85e381aee38182e38184e381a0e38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e383bbe6b3a8e98788.html"
+        "Slug":  "saisei_notes",
+        "RelMdPath":  "pages/saisei_notes.md"
     },
     {
         "Title":  "私が愛したゲイシャガール",
         "Base":  "E7A781E3818CE6849BE38197E3819FE382B2E382A4E382B7E383A3E382ACE383BCE383AB",
-        "RelPath":  "pages/e7a781e3818ce6849be38197e3819fe382b2e382a4e382b7e383a3e382ace383bce383ab.html"
+        "Slug":  "geishagirl",
+        "RelMdPath":  "pages/geishagirl.md"
     },
     {
         "Title":  "時重に撓んだ古き不可思議",
         "Base":  "E69982E9878DE381ABE69293E38293E381A0E58FA4E3818DE4B88DE58FAFE6809DE8ADB0",
-        "RelPath":  "pages/e69982e9878de381abe69293e38293e381a0e58fa4e3818de4b88de58fafe6809de8adb0.html"
+        "Slug":  "jijyu",
+        "RelMdPath":  "pages/jijyu.md"
     },
     {
         "Title":  "真珠の命もあとわずか",
         "Base":  "E79C9FE78FA0E381AEE591BDE38282E38182E381A8E3828FE3819AE3818B",
-        "RelPath":  "pages/e79c9fe78fa0e381aee591bde38282e38182e381a8e3828fe3819ae3818b.html"
+        "Slug":  "pearl",
+        "RelMdPath":  "pages/pearl.md"
     },
     {
         "Title":  "睡蓮散る散る月満ちる",
         "Base":  "E79DA1E893AEE695A3E3828BE695A3E3828BE69C88E6BA80E381A1E3828B",
-        "RelPath":  "pages/e79da1e893aee695a3e3828be695a3e3828be69c88e6ba80e381a1e3828b.html"
+        "Slug":  "suiren",
+        "RelMdPath":  "pages/suiren.md"
     },
     {
         "Title":  "睡蓮散る散る月満ちる・注釈",
         "Base":  "E79DA1E893AEE695A3E3828BE695A3E3828BE69C88E6BA80E381A1E3828BE383BBE6B3A8E98788",
-        "RelPath":  "pages/e79da1e893aee695a3e3828be695a3e3828be69c88e6ba80e381a1e3828be383bbe6b3a8e98788.html"
+        "Slug":  "suiren_notes",
+        "RelMdPath":  "pages/suiren_notes.md"
     },
     {
         "Title":  "赤い水銀",
         "Base":  "E8B5A4E38184E6B0B4E98A80",
-        "RelPath":  "pages/e8b5a4e38184e6b0b4e98a80.html"
+        "Slug":  "redmercury",
+        "RelMdPath":  "pages/redmercury.md"
     },
     {
         "Title":  "千々石ミゲル友の会のテーマ",
         "Base":  "E58D83E38085E79FB3E3839FE382B2E383ABE58F8BE381AEE4BC9AE381AEE38386E383BCE3839E",
-        "RelPath":  "pages/e58d83e38085e79fb3e3839fe382b2e383abe58f8be381aee4bc9ae381aee38386e383bce3839e.html"
+        "Slug":  "miguel",
+        "RelMdPath":  "pages/miguel.md"
     },
     {
         "Title":  "閃耀のステルラ・トランスウォランス",
         "Base":  "E99683E88080E381AEE382B9E38386E383ABE383A9E383BBE38388E383A9E383B3E382B9E382A6E382A9E383A9E383B3E382B9",
-        "RelPath":  "pages/e99683e88080e381aee382b9e38386e383abe383a9e383bbe38388e383a9e383b3e382b9e382a6e382a9e383a9e383b3e382b9.html"
+        "Slug":  "stellat_ransvolans",
+        "RelMdPath":  "pages/stellat_ransvolans.md"
     },
     {
         "Title":  "走り屋　何彦",
         "Base":  "E8B5B0E3828AE5B18BE38080E4BD95E5BDA6",
-        "RelPath":  "pages/e8b5b0e3828ae5b18be38080e4bd95e5bda6.html"
+        "Slug":  "nanihiko",
+        "RelMdPath":  "pages/nanihiko.md"
     },
     {
         "Title":  "天刑執行御神体バルドソドル",
         "Base":  "E5A4A9E58891E59FB7E8A18CE5BEA1E7A59EE4BD93E38390E383ABE38389E382BDE38389E383AB",
-        "RelPath":  "pages/e5a4a9e58891e59fb7e8a18ce5bea1e7a59ee4bd93e38390e383abe38389e382bde38389e383ab.html"
+        "Slug":  "bardothodol",
+        "RelMdPath":  "pages/bardothodol.md"
     },
     {
         "Title":  "天刑執行御神体バルドソドル・注釈",
         "Base":  "E5A4A9E58891E59FB7E8A18CE5BEA1E7A59EE4BD93E38390E383ABE38389E382BDE38389E383ABE383BBE6B3A8E98788",
-        "RelPath":  "pages/e5a4a9e58891e59fb7e8a18ce5bea1e7a59ee4bd93e38390e383abe38389e382bde38389e383abe383bbe6b3a8e98788.html"
+        "Slug":  "bardothodol_notes",
+        "RelMdPath":  "pages/bardothodol_notes.md"
     },
     {
         "Title":  "東京レクイエム",
         "Base":  "E69DB1E4BAACE383ACE382AFE382A4E382A8E383A0",
-        "RelPath":  "pages/e69db1e4baace383ace382afe382a4e382a8e383a0.html"
+        "Slug":  "requiem",
+        "RelMdPath":  "pages/requiem.md"
     },
     {
         "Title":  "東京レクイエム・注釈",
         "Base":  "E69DB1E4BAACE383ACE382AFE382A4E382A8E383A0E383BBE6B3A8E98788",
-        "RelPath":  "pages/e69db1e4baace383ace382afe382a4e382a8e383a0e383bbe6b3a8e98788.html"
+        "Slug":  "requiem_notes",
+        "RelMdPath":  "pages/requiem_notes.md"
     },
     {
         "Title":  "忍者部隊月光",
         "Base":  "E5BF8DE88085E983A8E99A8AE69C88E58589",
-        "RelPath":  "pages/e5bf8de88085e983a8e99a8ae69c88e58589.html"
+        "Slug":  "ninja",
+        "RelMdPath":  "pages/ninja.md"
     },
     {
         "Title":  "波浪!!美加みかん花まつり",
         "Base":  "E6B3A2E6B5AA2121E7BE8EE58AA0E381BFE3818BE38293E88AB1E381BEE381A4E3828A",
-        "RelPath":  "pages/e6b3a2e6b5aa2121e7be8ee58aa0e381bfe3818be38293e88ab1e381bee381a4e3828a.html"
+        "Slug":  "hello_mikan",
+        "RelMdPath":  "pages/hello_mikan.md"
     },
     {
         "Title":  "彼女はCORN☆SWEET状態",
         "Base":  "E5BDBCE5A5B3E381AF434F524EE298865357454554E78AB6E6858B",
-        "RelPath":  "pages/e5bdbce5a5b3e381af434f524ee298865357454554e78ab6e6858b.html"
+        "Slug":  "corn_sweet",
+        "RelMdPath":  "pages/corn_sweet.md"
     },
     {
         "Title":  "亡國浪漫",
         "Base":  "E4BAA1E59C8BE6B5AAE6BCAB",
-        "RelPath":  "pages/e4baa1e59c8be6b5aae6bcab.html"
+        "Slug":  "boukoku",
+        "RelMdPath":  "pages/boukoku.md"
     },
     {
         "Title":  "亡國浪漫 改",
         "Base":  "E4BAA1E59C8BE6B5AAE6BCAB20E694B9",
-        "RelPath":  "pages/e4baa1e59c8be6b5aae6bcab20e694b9.html"
+        "Slug":  "boukoku_kai",
+        "RelMdPath":  "pages/boukoku_kai.md"
     },
     {
         "Title":  "僕のタニシが準優勝",
         "Base":  "E58395E381AEE382BFE3838BE382B7E3818CE6BA96E584AAE58B9D",
-        "RelPath":  "pages/e58395e381aee382bfe3838be382b7e3818ce6ba96e584aae58b9d.html"
+        "Slug":  "tanishi",
+        "RelMdPath":  "pages/tanishi.md"
     },
     {
         "Title":  "万引女",
         "Base":  "E4B887E5BC95E5A5B3",
-        "RelPath":  "pages/e4b887e5bc95e5a5b3.html"
+        "Slug":  "manbiki",
+        "RelMdPath":  "pages/manbiki.md"
     },
     {
         "Title":  "密猟の夜",
         "Base":  "E5AF86E78C9FE381AEE5A49C",
-        "RelPath":  "pages/e5af86e78c9fe381aee5a49c.html"
+        "Slug":  "mitsuryou",
+        "RelMdPath":  "pages/mitsuryou.md"
     },
     {
         "Title":  "民間人の皆さん ありがとう",
         "Base":  "E6B091E99693E4BABAE381AEE79A86E38195E3829320E38182E3828AE3818CE381A8E38186",
-        "RelPath":  "pages/e6b091e99693e4babae381aee79a86e38195e3829320e38182e3828ae3818ce381a8e38186.html"
+        "Slug":  "minkan",
+        "RelMdPath":  "pages/minkan.md"
     },
     {
         "Title":  "民間人の皆さんありがとう（梵唄会Ver.）",
         "Base":  "E6B091E99693E4BABAE381AEE79A86E38195E38293E38182E3828AE3818CE381A8E38186EFBC88E6A2B5E59484E4BC9A5665722EEFBC89",
-        "RelPath":  "pages/e6b091e99693e4babae381aee79a86e38195e38293e38182e3828ae3818ce381a8e38186efbc88e6a2b5e59484e4bc9a5665722eefbc89.html"
+        "Slug":  "minkan_bombaye",
+        "RelMdPath":  "pages/minkan_bombaye.md"
     },
     {
         "Title":  "妄想神学プリンキピア",
         "Base":  "E5A684E683B3E7A59EE5ADA6E38397E383AAE383B3E382ADE38394E382A2",
-        "RelPath":  "pages/e5a684e683b3e7a59ee5ada6e38397e383aae383b3e382ade38394e382a2.html"
+        "Slug":  "principia",
+        "RelMdPath":  "pages/principia.md"
     },
     {
         "Title":  "妄想神学プリンキピア・注釈",
         "Base":  "E5A684E683B3E7A59EE5ADA6E38397E383AAE383B3E382ADE38394E382A2E383BBE6B3A8E98788",
-        "RelPath":  "pages/e5a684e683b3e7a59ee5ada6e38397e383aae383b3e382ade38394e382a2e383bbe6b3a8e98788.html"
+        "Slug":  "principia_notes",
+        "RelMdPath":  "pages/principia_notes.md"
     },
     {
         "Title":  "恋は化学戦争",
         "Base":  "E6818BE381AFE58C96E5ADA6E688A6E4BA89",
-        "RelPath":  "pages/e6818be381afe58c96e5ada6e688a6e4ba89.html"
+        "Slug":  "chemicalwarfare",
+        "RelMdPath":  "pages/chemicalwarfare.md"
     },
     {
         "Title":  "恋虹　護法少女ソワカちゃん裏６話の歌",
         "Base":  "E6818BE899B9E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E8A38FEFBC96E8A9B1E381AEE6AD8C",
-        "RelPath":  "pages/e6818be899b9e38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e8a38fefbc96e8a9b1e381aee6ad8c.html"
+        "Slug":  "koiniji",
+        "RelMdPath":  "pages/koiniji.md"
     },
     {
         "Title":  "噫無常　護法少女ソワカちゃん",
         "Base":  "E599ABE784A1E5B8B8E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293",
-        "RelPath":  "pages/e599abe784a1e5b8b8e38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293.html"
+        "Slug":  "mujou",
+        "RelMdPath":  "pages/mujou.md"
     },
     {
         "Title":  "噫無常　護法少女ソワカちゃん・注釈",
         "Base":  "E599ABE784A1E5B8B8E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E383BBE6B3A8E98788",
-        "RelPath":  "pages/e599abe784a1e5b8b8e38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293e383bbe6b3a8e98788.html"
+        "Slug":  "mujou_notes",
+        "RelMdPath":  "pages/mujou_notes.md"
     },
     {
         "Title":  "噫無常(がくぽVer)　護法少女ソワカちゃん",
         "Base":  "E599ABE784A1E5B8B828E3818CE3818FE381BD56657229E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293",
-        "RelPath":  "pages/e599abe784a1e5b8b828e3818ce3818fe381bd56657229e38080e8adb7e6b395e5b091e5a5b3e382bde383afe382abe381a1e38283e38293.html"
+        "Slug":  "mujou_gakupo",
+        "RelMdPath":  "pages/mujou_gakupo.md"
     }
 ]

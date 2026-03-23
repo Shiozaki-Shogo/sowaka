@@ -1,0 +1,48 @@
+﻿---
+layout: default
+title: 'フォーク並びを徹底してほしい'
+---
+
+## フォーク並びを徹底してほしい
+
+<h1>フォーク並びを徹底してほしい</h1>
+<p>『コードネームは赤い数珠』で使ったVOCALOID・MEIKOに続き、ついにKAITOまで登場。</p>
+<p>ソワカちゃん第三話挿入歌の冒頭で触れた「フォーク並び」への思いを、ムード歌謡に乗せて歌い上げます。</p>
+<p>（注釈はありません）</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm3288310">Niconico: sm3288310</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/nyTuPQdiAJY" title="YouTube nyTuPQdiAJY" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm3288310）">http://www.nicovideo.jp/watch/sm3288310）</a></p>
+
+<p><strong>フォーク並びを徹底してほしい</strong></p>
+<p></p>
+<p>フォーク並びを徹底してほしい</p>
+<p>最も公平な並び方</p>
+<p>人類の叡智</p>
+<p></p>
+<p>キミはこんな時</p>
+<p>ここへ行こうとしてないか</p>
+<p>先にこの人が行くべきだろう</p>
+<p>むしろここら辺りに立っていれば</p>
+<p>店員が気がついて促すだろう</p>
+<p></p>
+<p>でも並んでいることに気づかれてなかったら</p>
+<p>ぼーっと立ってるだけと思われてるかも知れない</p>
+<p></p>
+<p>そんな時は店員に対して</p>
+<p>キミは目くばせをしてみせるといいさ</p>
+<p>肩の力を抜いてちょっと笑顔で</p>
+<p>自然な感じがベストと言えるだろう</p>
+<p></p>
+<p>でもそれを店員にスルーされた挙句</p>
+<p>女子高生達に一部始終を見られていたら</p>
+<p>キミはそれを思い出して悶え死ぬだろう</p>
+<p></p>
+<p>フォーク並びを徹底してほしい</p>
+<p>最も公平な並び方</p>
+<p>人類の叡智</p>

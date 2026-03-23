@@ -1,0 +1,47 @@
+﻿---
+layout: default
+title: '波浪!!美加みかん花まつり'
+---
+
+## 波浪!!美加みかん花まつり
+
+<h1>波浪!!美加みかん花まつり</h1>
+<p>美加みかんさんによる『波浪!!ソワカちゃん花まつり』の替え歌を「歌ってみた」動画です。</p>
+<p>実写や肉声など、今までに無い要素が満載です。注釈はありません。</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm4481261">Niconico: sm4481261</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/d7SSxOM3TlU" title="YouTube d7SSxOM3TlU" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　美加みかん（<a href="http://www.nicovideo.jp/watch/sm4481261）">http://www.nicovideo.jp/watch/sm4481261）</a></p>
+
+<p><strong>波浪!!美加みかん花まつり</strong></p>
+<p></p>
+<p>ないすとぅーみーちゅー私美加みかん</p>
+<p>お前らの貧しさに乾杯</p>
+<p>朝起きたらこの世界はとっくに崩壊してたよ</p>
+<p>Everyday is Sunday 那由他ラッキー♪</p>
+<p></p>
+<p>お兄さんの嫁は兄嫁</p>
+<p>お姉さんの嫁は姉嫁</p>
+<p>DS版ポートピア連続殺人事件</p>
+<p>真相はヒトに言っちゃダメよ</p>
+<p></p>
+<p>この世の全ては虚妄に過ぎず</p>
+<p>物質的諸関係の総体だとしても</p>
+<p></p>
+<p>民族民族大移動</p>
+<p>ルイルイルイルイ何世？</p>
+<p>大空位時代の幕開けね</p>
+<p>グワシっ☆</p>
+<p></p>
+<p>もっこすもっこす肥後もっこす</p>
+<p>ガンプラガンプラコレクション</p>
+<p></p>
+<p>真っ赤に塗られた巨大仏像が</p>
+<p>渋谷駅前に出現する時</p>
+<p>東京は滅びる</p>
+<p>嘘です</p>

@@ -1,0 +1,65 @@
+﻿---
+layout: default
+title: 'アビサス・アビサム'
+---
+
+## アビサス・アビサム
+
+<h1>アビサス・アビサム</h1>
+<p>音楽ポータルサイト・<a href="http://www.barks.jp/">BARKS</a>の10周年を記念して（？）kihirohito氏がデザインしたキャラ、<a href="http://www.barks.jp/news/?id=1000051109">BARKSちゃん</a>。</p>
+<p>&quot;僕の考えたヴィジュアル系&quot;ってことで、そのBARKSちゃんがカッコいい曲を奏でて、深淵へと呼び招きます。</p>
+<p>BARKSちゃんについては、<a href="http://www.pixiv.net/tags.php?tag=BARKS%E3%81%A1%E3%82%83%E3%82%93">pixiv</a>なんかも要チェック！</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm7764926">Niconico: sm7764926</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/Fe9pZcxrxU8" title="YouTube Fe9pZcxrxU8" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm7764926）">http://www.nicovideo.jp/watch/sm7764926）</a></p>
+
+<p><strong>アビサス・アビサム</strong></p>
+<p></p>
+<p>繰り返される怠惰な宴</p>
+<p>鈍痛だけが切実なリアル</p>
+<p>喉の奥からせりあがり来る</p>
+<p>腐敗卵〔ふはいらん〕　水嵩は増す</p>
+<p></p>
+<p>頭丸ごと甘噛されて</p>
+<p>舌で目玉を転がされてる</p>
+<p>手慰みに振られた骰子〔さい〕が</p>
+<p>お前の運命を決める</p>
+<p></p>
+<p>月が欠け　心のひとひらが揺れた</p>
+<p>常闇深く　銀の釣り糸を垂らす</p>
+<p></p>
+<p>今讃えよ</p>
+<p>偽典の天使が　与える祝福を</p>
+<p></p>
+<p>無闇矢鱈に接続される</p>
+<p>Ａ１０〔エーテン〕神経</p>
+<p>Ａ９〔エーキュー〕器官</p>
+<p>三歳児が施す外科手術</p>
+<p>眩暈　総毛立つ瞬間</p>
+<p></p>
+<p>真鍮製の手頃な魂</p>
+<p>ゲヘナの炎にただ炙られて</p>
+<p>密造の神の捏造の愛</p>
+<p>虚偽と錯誤が生む赤子</p>
+<p></p>
+<p>月は満ち</p>
+<p>鮮血の如き花が咲く</p>
+<p></p>
+<p>この足下</p>
+<p>深淵が深淵を覗く</p>
+<p></p>
+<p>今崇めよ</p>
+<p>偽典の天使の眩き御姿を</p>
+<p></p>
+<p>アビサス・アビサム</p>
+<p>アビサス・アビサム</p>
+<p>アビサス・アビサム</p>
+<p>アビサス・アビサム</p>
+<p></p>
+<p>アビサス・アビサム……</p>

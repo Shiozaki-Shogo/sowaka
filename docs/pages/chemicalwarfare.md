@@ -1,0 +1,38 @@
+﻿---
+layout: default
+title: '恋は化学戦争'
+---
+
+## 恋は化学戦争
+
+<h1>恋は化学戦争</h1>
+<p><a href="http://ja.wikipedia.org/wiki/Supercell">supercell</a>の『<a href="http://www.nicovideo.jp/watch/sm2397344">恋は戦争</a>』と、アメリカのパンクバンド<a href="http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%83%E3%83%89%E3%83%BB%E3%82%B1%E3%83%8D%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA">Dead Kennedys</a>の『<a href="http://www.youtube.com/watch?v=nK5fKFFqJe4">Chemical Warfare</a>』を混ぜた作品だそうです。</p>
+<p>初音ミクの曲のカバーは珍しいですね。</p>
+<p>便宜上、とりあえず「袋のままで行く」シリーズに分類させていただきました。</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm8385907">Niconico: sm8385907</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/vnafR0wDzbM" title="YouTube vnafR0wDzbM" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　ryo（<a href="http://www.nicovideo.jp/watch/sm2397344）">http://www.nicovideo.jp/watch/sm2397344）</a></p>
+
+<p><strong>恋は戦争</strong></p>
+<p></p>
+<p>もう行き場がないわ　この恋の熱量</p>
+<p></p>
+<p>灰色の雲　モノクロの喧騒</p>
+<p>日差しはかげり　夕暮れは色を変えていく</p>
+<p></p>
+<p>世界がにじんで　それでも好きでいられるかなんて</p>
+<p>わかってる　けどどうすればいいの</p>
+<p>どうしたら　どうすれば</p>
+<p>バカだな…　わたし</p>
+<p></p>
+<p>始めるのよ　これは戦争</p>
+<p>嬉しそうなキミをみるなんて！</p>
+<p>切なる恋　それは罪</p>
+<p>見せてあげる　わたしの想いを</p>
+<p></p>

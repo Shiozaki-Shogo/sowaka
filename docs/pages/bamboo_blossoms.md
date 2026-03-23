@@ -1,0 +1,57 @@
+﻿---
+layout: default
+title: 'Bamboo Blossoms'
+---
+
+## Bamboo Blossoms
+
+<h1>Bamboo Blossoms</h1>
+<p>ピアプロで公開されていた<a href="http://piapro.jp/content/vwvwgbi7limcgzus">『ガラスの十代』シリーズの一曲</a>に海草っぽい動画を付けた作品です。</p>
+<p>使用してるのはがくっぽいど。背景の画像は竹林でしょうか。渋い動画に仕上がってます。</p>
+<p>ちなみに竹の花（=Bamboo Blossoms）は67～120年に一度だけ開花して、竹は枯れてしまいます。</p>
+<p>また民間伝承では不吉の前兆とされてます。</p>
+<p>（今回も注釈ページはありません）</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm8958268">Niconico: sm8958268</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/vrgdvIMHjfE" title="YouTube vrgdvIMHjfE" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm8958268）">http://www.nicovideo.jp/watch/sm8958268）</a></p>
+
+<p><strong>Bamboo Blossoms</strong></p>
+<p></p>
+<p>ぬかるんだ土の下で</p>
+<p>探り合う無数の指先</p>
+<p>拍手と喝采の中を</p>
+<p>穏やかに狂うよ</p>
+<p></p>
+<p>金切声が虚ろに響く夜</p>
+<p>溢れるような微笑の中</p>
+<p>振り返れば長い影法師</p>
+<p></p>
+<p>新月の夜に集う</p>
+<p>その顔を失くした人達</p>
+<p>こぼれ落ちた空のかけらを</p>
+<p>掴もうともがくよ</p>
+<p></p>
+<p>金切声が虚ろに響く夜</p>
+<p>溢れるような微笑の中</p>
+<p>振り返れば長い影法師</p>
+<p></p>
+<p>ここはただうすら寒く</p>
+<p>物陰に息をひそめて</p>
+<p>誰かの打ち鳴らす</p>
+<p>鐘の音を聞け</p>
+<p></p>
+<p>金切声が虚ろに響く夜</p>
+<p>溢れるような微笑の中</p>
+<p>振り返れば長い影法師</p>
+<p></p>
+<p>遠回りして出会ったお前が</p>
+<p>頭から煙に巻かれ消えてくだろう</p>
+<p>どこかで聞いた話によく似た</p>
+<p>本当のことを得意気に語り出す犬を殺そう</p>
+<p></p>

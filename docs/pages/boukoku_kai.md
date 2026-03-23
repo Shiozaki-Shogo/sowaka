@@ -1,0 +1,60 @@
+﻿---
+layout: default
+title: '亡國浪漫 改'
+---
+
+## 亡國浪漫 改
+
+<h1>亡國浪漫 改</h1>
+<p>あの『<a href="{{ '/pages/boukoku.html' | relative_url }}">亡國浪漫</a>』を鏡音レンACT2を使って再アレンジ！</p>
+<p>動画も何だか妙に凝ってる気が…！？（注釈ページはありません）</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm4102050">Niconico: sm4102050</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/0aZ4zVXTHoM" title="YouTube 0aZ4zVXTHoM" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm4102050）">http://www.nicovideo.jp/watch/sm4102050）</a></p>
+
+<p><strong>亡國浪漫</strong></p>
+<p></p>
+<p>白髪の亡骸を　虚空に捧ぐ</p>
+<p>気泡の浮かぶ　腐海の奥で</p>
+<p>未だ彷徨える　精神（こころ）</p>
+<p></p>
+<p>朽ち果てた楼閣を　目の前にして</p>
+<p>手垢に塗れた　叙情だけが</p>
+<p>渇く自我を　慰める</p>
+<p></p>
+<p>廃墟を無数の　羽虫が飛び交う</p>
+<p>神話の彼方の　最早死にかけた父よ</p>
+<p>似而非造物主（エセデミウルゴス）よ</p>
+<p></p>
+<p>赤黒き月を仰ぐ</p>
+<p>手の甲に　星を刻むよ</p>
+<p>あの旗の下で　何を誓おうか</p>
+<p>終わりなき世の　めでたさよ</p>
+<p></p>
+<p>空白の広間には　寠（やつ）れた犬が</p>
+<p>病みつかれた　その魂を</p>
+<p>白い虫が　食い荒らす</p>
+<p></p>
+<p>始まりを知らずして　全てが終わる</p>
+<p>狂い咲く　彼岸の花が</p>
+<p>夢の中で　呼び掛ける</p>
+<p></p>
+<p>瓦礫に埋もれた　正義の表徴（しるし）よ</p>
+<p>手堅く握った　使い古された夢の</p>
+<p>信仰告白を</p>
+<p></p>
+<p>あの空を　過（よ）ぎる何か</p>
+<p>神の手は　全て消し得るよ</p>
+<p>ただ拘束衣を纏い　何を呪おうか</p>
+<p>終わりなき世の　めでたさよ</p>
+<p></p>
+<p>赤黒き月を仰ぐ</p>
+<p>手の甲に　星を刻むよ</p>
+<p>あの旗の下で　何を誓おうか</p>
+<p>終わりなき世の　めでたさよ</p>

@@ -1,0 +1,33 @@
+﻿---
+layout: default
+title: '護法少女ソワカちゃん第３話'
+---
+
+## 護法少女ソワカちゃん第３話
+
+<h1>護法少女ソワカちゃん第３話</h1>
+<p>今度は第３話。そして挿入歌はなぜか演歌調です。別れもあれば出会いもあり…。</p>
+<h2>サブタイトル</h2>
+<p>そして哀しみは羇旅辺土（きりょへんど）を照らすであらう　の巻</p>
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm1381807">Niconico: sm1381807</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/5x3ZsvZTJSw" title="YouTube 5x3ZsvZTJSw" loading="lazy" allowfullscreen></iframe></div>
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm1381807）">http://www.nicovideo.jp/watch/sm1381807）</a></p>
+
+<p><strong>哀しみ行脚日本海</strong></p>
+<p></p>
+<p>見知らぬ土地を彷徨（さまよ）った挙句</p>
+<p>牛の背中を撫でている</p>
+<p>ジュースを買ってきてと頼んでみても</p>
+<p>彼はすでにいない</p>
+<p>出会った頃のクーヤンを思い出してみる</p>
+<p>無邪気に話すクーヤンを思い出してみる</p>
+<p>浄土でママと会えたでしょうか？</p>
+<p>さっきから膝の裏側がかゆい</p>
+<p>発車のベルが響く</p>
+<p>そして私はひとり</p>
+<h2>注釈</h2>
+<p>由来・元ネタに興味のある方は<a href="{{ '/pages/ep3_notes.html' | relative_url }}">護法少女ソワカちゃん第３話・注釈</a>をご覧下さい。</p>

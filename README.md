@@ -12,9 +12,10 @@ powershell -ExecutionPolicy Bypass -File .\scripts\build-site.ps1 -SourceRoot ..
 
 ## 2. 出力されるもの
 
-- `docs/index.html`: トップページ
-- `docs/pages/*.html`: 各ページ
-- `docs/attach`, `docs/image`, `docs/photo`, `docs/mp3`: 静的アセット
+- `docs/index.md`: トップページ（Jekyll で `index.html` として公開）
+- `docs/pages/*.md`: 各ページ（Jekyll で `.html` 化）
+- `docs/_layouts/default.html`: レイアウト
+- `docs/attach`, `docs/image`, `docs/photo`, `docs/mp3`, `docs/character`: 静的アセット
 - `docs/pages.json`: ページ一覧メタデータ
 
 ## 3. GitHub Pages 設定

@@ -1,0 +1,48 @@
+﻿---
+layout: default
+title: '光あふれる食卓'
+---
+
+## 光あふれる食卓
+
+<h1>光あふれる食卓</h1>
+<p>くまみさんの『<a href="http://www.nicovideo.jp/watch/sm6481657">【巡音ルカオリジナル曲】さなぎのおわり</a>』の曲にkihirohitoさんが歌詞をつけ、動画制作は背中P……というこれまでにない形式のコラボ作品です。</p>
+<p>カレーは作って２日目くらいが美味しいですよね。（注釈ページはありません）</p>
+
+<h2>動画</h2>
+<h3>ニコニコ動画</h3>
+<p><a href="https://www.nicovideo.jp/watch/sm10518872">Niconico: sm10518872</a></p>
+<h3>Youtube</h3>
+<div class="video"><iframe src="https://www.youtube.com/embed/qZEAkrtO-58" title="YouTube qZEAkrtO-58" loading="lazy" allowfullscreen></iframe></div>
+
+<h2>歌詞</h2>
+<p>記　kihirohito（<a href="http://www.nicovideo.jp/watch/sm10518872）">http://www.nicovideo.jp/watch/sm10518872）</a></p>
+
+<p><strong>光あふれる食卓</strong></p>
+<p></p>
+<p>空を夕焼け雲が</p>
+<p>ゆっくりと流れてく</p>
+<p>目の前を子犬が</p>
+<p>元気に駆けてゆく</p>
+<p></p>
+<p>遠くから僕のこと</p>
+<p>たしかに呼んでる声がする</p>
+<p>帰らなきゃ 今日の</p>
+<p>晩ごはんは何かな</p>
+<p></p>
+<p>カレーを三日も続けて食べたら</p>
+<p>やっぱり飽きてくる</p>
+<p></p>
+<p>朝の澄んだ空気と</p>
+<p>冷たい水が目を覚ます</p>
+<p>鳥たちのさえずりが</p>
+<p>奏でるハーモニー</p>
+<p></p>
+<p>台所トントンと</p>
+<p>ごはんの支度の音がする</p>
+<p>朝食はふつう</p>
+<p>あっさり目になるよね</p>
+<p></p>
+<p>カレーが五日も続けて出るのは</p>
+<p>さすがに作りすぎ</p>
+<p></p>
