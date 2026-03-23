@@ -3,8 +3,6 @@ layout: default
 title: '私が愛したゲイシャガール'
 ---
 
-## 私が愛したゲイシャガール
-
 # 私が愛したゲイシャガール
 男声VOCALOID「[BIG-AL](http://www.powerfx.com/ProductInfo.aspx?prod_id=1695)」を使用した和テイスト溢れる楽曲です。
 それにしても動画がまた力入ってますねぇ……

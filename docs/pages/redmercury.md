@@ -3,8 +3,6 @@ layout: default
 title: '赤い水銀'
 ---
 
-## 赤い水銀
-
 # 赤い水銀
 やりかけの曲の御蔵出し、「やりかけ曲企画」第三弾です。
 GSっぽい曲調ということでGSっぽい[ささなみさん](http://www26.atwiki.jp/sowaka-fan/pages/240.html)の描かれたイラストが動画に採用されました。

@@ -3,8 +3,6 @@ layout: default
 title: '天刑執行御神体バルドソドル・注釈'
 ---
 
-## 天刑執行御神体バルドソドル・注釈
-
 # 天刑執行御神体バルドソドル・注釈
 [天刑執行御神体バルドソドル]({{ '/pages/bardothodol.html' | relative_url }})の注釈のページです。
 動画のコメント、[twitter](http://twitter.com/)などを参考にさせていただきました。ありがとうございました。

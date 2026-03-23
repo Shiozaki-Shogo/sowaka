@@ -3,8 +3,6 @@ layout: default
 title: '護法少女ソワカちゃん第１１話  feat. Cool Young・注釈'
 ---
 
-## 護法少女ソワカちゃん第１１話  feat. Cool Young・注釈
-
 # 護法少女ソワカちゃん第１１話 feat. Cool Young・注釈
 [護法少女ソワカちゃん第１１話 feat. Cool Young]({{ '/pages/ep11cy.html' | relative_url }})の注釈のページです。
 ほとんどの元ネタは[第１１話・注釈]({{ '/pages/ep11_notes.html' | relative_url }})で解説済みですので、そちらを参照してください。

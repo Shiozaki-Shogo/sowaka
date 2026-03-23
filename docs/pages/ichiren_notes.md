@@ -3,8 +3,6 @@ layout: default
 title: '一蓮托生なり三兄弟　護法少女ソワカちゃん・注釈'
 ---
 
-## 一蓮托生なり三兄弟　護法少女ソワカちゃん・注釈
-
 # 一蓮托生なり三兄弟　護法少女ソワカちゃん・注釈
 [一蓮托生なり三兄弟　護法少女ソワカちゃん]({{ '/pages/ichiren.html' | relative_url }})の注釈のページです。
 動画のコメント、[mixiソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)、[2chソワカちゃんスレ](http://life9.2ch.net/test/read.cgi/psy/1200848229/l50)などを

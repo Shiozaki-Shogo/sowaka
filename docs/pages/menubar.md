@@ -3,8 +3,6 @@ layout: default
 title: 'MenuBar'
 ---
 
-## MenuBar
-
 **【カラオケ情報】**
 [JOYSOUND](http://joysound.com/ex/karaoke/index.htm)の[リアルタイムリクエスト](http://joysound.com/ex/utasuki/request/search.htm?searchKbnGet=2&amp;searchKeyWordGet=kihirohito)でkihirohito氏の曲が順次配信決定してます！　詳しくは[こちらへ](http://vocaloidkaraoke.khaotic.info/detail/kihirohito/index.htm)！
 

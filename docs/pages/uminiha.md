@@ -3,8 +3,6 @@ layout: default
 title: '海には行かない'
 ---
 
-## 海には行かない
-
 # 海には行かない
 これまで作りかけて中断していたVOCALOID曲のお蔵出し、「[やりかけ曲企画](http://blog.livedoor.jp/kihirohito/archives/50571939.html)」第一弾だそうです。
 12月4日にAH-Softwareから発売されたボカロ小学生『[VOCALOID2 歌愛ユキ](http://www.ah-soft.com/vocaloid/yuki/index.html)』を使った楽曲です。

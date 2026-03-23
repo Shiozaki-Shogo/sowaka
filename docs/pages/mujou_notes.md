@@ -3,8 +3,6 @@ layout: default
 title: '噫無常　護法少女ソワカちゃん・注釈'
 ---
 
-## 噫無常　護法少女ソワカちゃん・注釈
-
 # 噫無常　護法少女ソワカちゃん・注釈
 [噫無常　護法少女ソワカちゃん]({{ '/pages/mujou.html' | relative_url }})の注釈のページです。
 動画のコメント、[mixiソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)、[2chソワカちゃんスレ]({{ '/pages/2chlog.html' | relative_url }})などを

@@ -3,8 +3,6 @@ layout: default
 title: 'そんなところに神は宿らない'
 ---
 
-## そんなところに神は宿らない
-
 # そんなところに神は宿らない
 護法少女ソワカちゃんシリーズの作者・[kihirohito氏](http://piapro.jp/kihirohito)が[ピアプロ](http://piapro.jp/)で公開していた曲を、
 VOCALOID2「[鏡音レン](http://www.crypton.co.jp/mp/pages/prod/vocaloid/cv02.jsp)」で再録した曲です。（[初音ミクver.はこちら](http://piapro.jp/a/content/?id=zy4wvkjwpeh67bdu)）

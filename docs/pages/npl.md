@@ -3,8 +3,6 @@ layout: default
 title: 'Never Promised Land'
 ---
 
-## Never Promised Land
-
 # Never Promised Land
 ツンドラの永久凍土を彷彿とさせる歌詞に、何処から拝借したのか謎の動画。
 『元々バンド用のデモ曲だったものにボカロを乗せてみました』とのこと。

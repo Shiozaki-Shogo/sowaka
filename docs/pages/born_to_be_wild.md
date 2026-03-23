@@ -3,8 +3,6 @@ layout: default
 title: 'ワイルドで行こう'
 ---
 
-## ワイルドで行こう
-
 # ワイルドで行こう（カバー）
 （ニコニコ動画で公開されている作品として、）kihorhito氏、初めてのカバー曲です。
 原曲は映画『イージーライダー』の挿入歌として有名なSteppenwolfの『[Born To Be Wild](http://www.youtube.com/watch?v=xm5DPlNCmtk)』（邦題「ワイルドで行こう」）。

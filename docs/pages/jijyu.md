@@ -3,8 +3,6 @@ layout: default
 title: '時重に撓んだ古き不可思議'
 ---
 
-## 時重に撓んだ古き不可思議
-
 # 時重に撓んだ古き不可思議
 第二回電奇梵唄会のトーク司会者もされた[namak氏](http://www.nicovideo.jp/mylist/17649204)が作詞を担当したコラボ動画です。
 歌はボカロ小学生『[VOCALOID2 歌愛ユキ](http://www.ah-soft.com/vocaloid/yuki/index.html)』を使用。

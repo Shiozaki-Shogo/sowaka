@@ -3,8 +3,6 @@ layout: default
 title: '亡國浪漫'
 ---
 
-## 亡國浪漫
-
 # 亡國浪漫
 シリーズ『[夢の旧作](http://www.nicovideo.jp/mylist/4414387)』の第３弾！
 旭日旗を背に、菊の御紋を胸に、鏡音レンが歌い上げます！

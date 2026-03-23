@@ -3,8 +3,6 @@ layout: default
 title: 'Bamboo Blossoms'
 ---
 
-## Bamboo Blossoms
-
 # Bamboo Blossoms
 ピアプロで公開されていた[『ガラスの十代』シリーズの一曲](http://piapro.jp/content/vwvwgbi7limcgzus)に海草っぽい動画を付けた作品です。
 使用してるのはがくっぽいど。背景の画像は竹林でしょうか。渋い動画に仕上がってます。

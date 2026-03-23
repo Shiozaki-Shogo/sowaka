@@ -3,8 +3,6 @@ layout: default
 title: 'ソワカちゃん音頭・注釈'
 ---
 
-## ソワカちゃん音頭・注釈
-
 # ソワカちゃん音頭・注釈
 [ソワカちゃん音頭]({{ '/pages/ondo.html' | relative_url }})の注釈のページです。
 動画のコメント、[mixiソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)、[2chソワカちゃんスレ]({{ '/pages/2chlog.html' | relative_url }})などを

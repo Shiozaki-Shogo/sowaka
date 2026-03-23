@@ -3,8 +3,6 @@ layout: default
 title: '護法少女ソワカちゃん第１１話 feat. Cool Young'
 ---
 
-## 護法少女ソワカちゃん第１１話 feat. Cool Young
-
 # 護法少女ソワカちゃん第１１話 feat. Cool Young
 作者からのお年玉！？　新春思いつき企画第一弾！　クーヤン目線の１１話！
 

@@ -3,8 +3,6 @@ layout: default
 title: '護法少女ソワカちゃんOP・注釈'
 ---
 
-## 護法少女ソワカちゃんOP・注釈
-
 # 護法少女ソワカちゃんOP・注釈
 [護法少女ソワカちゃんOP]({{ '/pages/op.html' | relative_url }})の注釈のページです。
 [mantrapri氏](http://d.hatena.ne.jp/mantrapri/)の[解説](http://d.hatena.ne.jp/mantrapri/20071101)を大いに参考にさせていただきました。

@@ -43,6 +43,31 @@ function To-AsciiSlug {
   return $norm
 }
 
+function Load-Dat2chIndex {
+  param([string]$SourceRootDir)
+  $map = @{}
+  $datIndex = Join-Path $SourceRootDir "wiki\326368646174.txt"
+  if (-not (Test-Path $datIndex)) { return $map }
+  $lines = [System.IO.File]::ReadAllLines($datIndex, [System.Text.Encoding]::UTF8)
+  foreach ($line in $lines) {
+    if ($line -match '^\|([^|]+)\|\&ref\(\./([^)]*)\);\|\[\[([^:]+):(https?://[^\]]+)\]\]\|') {
+      $id = $matches[1].Trim()
+      $file = $matches[2].Trim()
+      $title = $matches[3].Trim()
+      $url = $matches[4].Trim()
+      if ($id -ne "") {
+        $map[$id] = [PSCustomObject]@{
+          Id = $id
+          Title = $title
+          Url = $url
+          File = $file
+        }
+      }
+    }
+  }
+  return $map
+}
+
 function Resolve-LocalAssetOrUrl {
   param([string]$Source)
   $src = $Source.Trim()
@@ -122,7 +147,8 @@ function Convert-Inline {
   param(
     [string]$Text,
     [hashtable]$PageMap,
-    [hashtable]$LegacyLinkMap
+    [hashtable]$LegacyLinkMap,
+    [hashtable]$Dat2chMap
   )
 
   $out = Escape-Html $Text
@@ -168,6 +194,28 @@ function Convert-Inline {
   $out = [regex]::Replace($out, "&amp;photo\((.+?)\);", {
     param($m)
     return Render-PhotoTag -ArgsRaw $m.Groups[1].Value
+  })
+
+  $out = [regex]::Replace($out, "&amp;show2chdat\((.+?)\);", {
+    param($m)
+    $argsRaw = $m.Groups[1].Value.Trim()
+    if ($argsRaw -eq "") { return "" }
+    $parts = $argsRaw -split ","
+    if ($parts.Count -lt 1) { return "" }
+    $alt = $parts[0].Trim()
+    $id = if ($parts.Count -ge 2) { $parts[1].Trim() } else { "" }
+    if ($alt -eq "" -and $id -eq "") { return "" }
+    if ($id -ne "" -and $Dat2chMap.ContainsKey($id)) {
+      $entry = $Dat2chMap[$id]
+      $label = if ($alt -ne "") { $alt } else { [string]$entry.Title }
+      return "[$label]($($entry.Url))"
+    }
+    if ($id -match '^\d{9,10}$') {
+      $label = if ($alt -ne "") { $alt } else { $id }
+      return "[$label](https://gimpo.2ch.net/test/read.cgi/psy/$id/l50)"
+    }
+    if ($alt -ne "") { return $alt }
+    return $id
   })
 
   $out = [regex]::Replace($out, "#htmlinsert\(flash,([^)]+)\)", {
@@ -252,11 +300,64 @@ function Rewrite-LegacySiteLinks {
   return $text
 }
 
+function Remove-DuplicateLeadingHeading {
+  param([string]$Body)
+  $lines = $Body -split "`r?`n"
+  $idx = @()
+  for ($i = 0; $i -lt $lines.Count; $i++) {
+    if (-not [string]::IsNullOrWhiteSpace($lines[$i])) {
+      $idx += $i
+      if ($idx.Count -ge 3) { break }
+    }
+  }
+  if ($idx.Count -lt 2) { return $Body }
+
+  $l1 = $lines[$idx[0]]
+  $l2 = $lines[$idx[1]]
+  if ($l1 -match "^##\s+(.+)$" -and $l2 -match "^#\s+(.+)$") {
+    $t1 = ($matches[1] -replace "\s+", "").Trim()
+    $t2 = (($l2 -replace "^#\s+", "") -replace "\s+", "").Trim()
+    if ($t1 -eq $t2) {
+      $newLines = @()
+      for ($j = 0; $j -lt $lines.Count; $j++) {
+        if ($j -ne $idx[0]) { $newLines += $lines[$j] }
+      }
+      return ($newLines -join "`n")
+    }
+  }
+  return $Body
+}
+
+function Render-Show2chdatLink {
+  param(
+    [string]$ArgsRaw,
+    [hashtable]$Dat2chMap
+  )
+  $args = $ArgsRaw.Trim()
+  if ($args -eq "") { return "" }
+  $parts = $args -split ","
+  if ($parts.Count -lt 1) { return "" }
+  $alt = $parts[0].Trim()
+  $id = if ($parts.Count -ge 2) { $parts[1].Trim() } else { "" }
+  if ($id -ne "" -and $Dat2chMap.ContainsKey($id)) {
+    $entry = $Dat2chMap[$id]
+    $label = if ($alt -ne "") { $alt } else { [string]$entry.Title }
+    return "[$label]($($entry.Url))"
+  }
+  if ($id -match '^\d{9,10}$') {
+    $label = if ($alt -ne "") { $alt } else { $id }
+    return "[$label](https://gimpo.2ch.net/test/read.cgi/psy/$id/l50)"
+  }
+  if ($alt -ne "") { return $alt }
+  return $id
+}
+
 function Render-Body {
   param(
     [string[]]$Lines,
     [hashtable]$PageMap,
-    [hashtable]$LegacyLinkMap
+    [hashtable]$LegacyLinkMap,
+    [hashtable]$Dat2chMap
   )
 
   $sb = New-Object System.Text.StringBuilder
@@ -283,7 +384,7 @@ function Render-Body {
     }
     if ($trimmed -match "^>(.+)$") {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
-      $qText = Convert-Inline -Text $matches[1].Trim() -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
+      $qText = Convert-Inline -Text $matches[1].Trim() -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap -Dat2chMap $Dat2chMap
       [void]$sb.AppendLine("> $qText")
       continue
     }
@@ -323,6 +424,13 @@ function Render-Body {
       continue
     }
 
+    if ($trimmed -match "^&show2chdat\((.+)\);\s*$") {
+      Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
+      $link = Render-Show2chdatLink -ArgsRaw $matches[1] -Dat2chMap $Dat2chMap
+      if ($link -ne "") { [void]$sb.AppendLine($link) }
+      continue
+    }
+
     if ($line -eq "") {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
       [void]$sb.AppendLine("")
@@ -343,7 +451,7 @@ function Render-Body {
         $tag = "td"
         if ($cellRaw.StartsWith("~")) { $tag = "th"; $cellRaw = $cellRaw.Substring(1) }
         if ($cellRaw -match "^(LEFT|CENTER|RIGHT):") { $cellRaw = $cellRaw -replace "^(LEFT|CENTER|RIGHT):", "" }
-        $cell = Convert-Inline -Text $cellRaw -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
+        $cell = Convert-Inline -Text $cellRaw -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap -Dat2chMap $Dat2chMap
         [void]$sb.AppendLine("<$tag>$cell</$tag>")
       }
       [void]$sb.AppendLine("</tr>")
@@ -354,7 +462,7 @@ function Render-Body {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
       $lv = $matches[1].Length
       $text = $matches[2] -replace "\s*\[#[-A-Za-z0-9_]+\]\s*$", ""
-      $text = Convert-Inline -Text $text -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
+      $text = Convert-Inline -Text $text -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap -Dat2chMap $Dat2chMap
       $hashes = "#" * $lv
       [void]$sb.AppendLine("$hashes $text")
       continue
@@ -362,20 +470,25 @@ function Render-Body {
 
     if ($line -match "^-(.+)$") {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
-      $text = Convert-Inline -Text ($matches[1].Trim()) -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
+      $itemRaw = $matches[1].Trim()
+      if ($itemRaw -match "^&show2chdat\((.+)\);\s*$") {
+        $text = Render-Show2chdatLink -ArgsRaw $matches[1] -Dat2chMap $Dat2chMap
+      } else {
+        $text = Convert-Inline -Text $itemRaw -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap -Dat2chMap $Dat2chMap
+      }
       [void]$sb.AppendLine("- $text")
       continue
     }
 
     if ($line -match "^\+(.+)$") {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
-      $text = Convert-Inline -Text ($matches[1].Trim()) -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
+      $text = Convert-Inline -Text ($matches[1].Trim()) -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap -Dat2chMap $Dat2chMap
       [void]$sb.AppendLine("1. $text")
       continue
     }
 
     Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
-    $text2 = Convert-Inline -Text ($line -replace "~\s*$", "") -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap
+    $text2 = Convert-Inline -Text ($line -replace "~\s*$", "") -PageMap $PageMap -LegacyLinkMap $LegacyLinkMap -Dat2chMap $Dat2chMap
     [void]$sb.AppendLine($text2)
   }
 
@@ -437,6 +550,7 @@ $excludedPagePatterns = @(
 )
 
 $aliasByPage = Load-RewriteMapAliases -SourceRootDir $SourceRoot
+$dat2chMap = Load-Dat2chIndex -SourceRootDir $SourceRoot
 $pages = @()
 $usedSlugs = @{}
 $slugOverridesByBase = @{
@@ -522,17 +636,16 @@ foreach ($kv in $aliasByPage.GetEnumerator()) {
 
 foreach ($p in $contentPages) {
   $lines = [System.IO.File]::ReadAllLines($p.SourcePath, [System.Text.Encoding]::UTF8)
-  $body = Render-Body -Lines $lines -PageMap $pageMap -LegacyLinkMap $legacyLinkMap
+  $body = Render-Body -Lines $lines -PageMap $pageMap -LegacyLinkMap $legacyLinkMap -Dat2chMap $dat2chMap
   $body = Rewrite-LegacySiteLinks -Html $body -LegacyLinkMap $legacyLinkMap
   $body = Normalize-LiquidQuoteEntities -Html $body
+  $body = Remove-DuplicateLeadingHeading -Body $body
   $yamlTitle = Escape-YamlSingleQuoted $p.Title
-  $md = @"
+$md = @"
 ---
 layout: default
 title: '$yamlTitle'
 ---
-
-## $($p.Title)
 
 $body
 "@
@@ -545,17 +658,16 @@ $listItems = ($contentPages | ForEach-Object {
 
 if ($null -ne $landing) {
   $landingLines = [System.IO.File]::ReadAllLines($landing.SourcePath, [System.Text.Encoding]::UTF8)
-  $landingBody = Render-Body -Lines $landingLines -PageMap $pageMap -LegacyLinkMap $legacyLinkMap
+  $landingBody = Render-Body -Lines $landingLines -PageMap $pageMap -LegacyLinkMap $legacyLinkMap -Dat2chMap $dat2chMap
   $landingBody = Rewrite-LegacySiteLinks -Html $landingBody -LegacyLinkMap $legacyLinkMap
   $landingBody = Normalize-LiquidQuoteEntities -Html $landingBody
+  $landingBody = Remove-DuplicateLeadingHeading -Body $landingBody
   $landingTitleYaml = Escape-YamlSingleQuoted $landing.Title
   $indexMd = @"
 ---
 layout: default
 title: '$landingTitleYaml'
 ---
-
-## $($landing.Title)
 
 $landingBody
 

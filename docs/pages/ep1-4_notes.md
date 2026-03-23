@@ -3,8 +3,6 @@ layout: default
 title: '護法少女ソワカちゃん第１話（その４）・注釈'
 ---
 
-## 護法少女ソワカちゃん第１話（その４）・注釈
-
 # 護法少女ソワカちゃん第１話（その４）・注釈
 [護法少女ソワカちゃん第１（その４）]({{ '/pages/ep1-4.html' | relative_url }})の注釈のページです。
 動画のコメント、[mixiソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)、[2chソワカちゃんスレ]({{ '/pages/2chlog.html' | relative_url }})などを

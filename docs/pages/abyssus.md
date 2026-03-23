@@ -3,8 +3,6 @@ layout: default
 title: 'アビサス・アビサム'
 ---
 
-## アビサス・アビサム
-
 # アビサス・アビサム
 音楽ポータルサイト・[BARKS](http://www.barks.jp/)の10周年を記念して（？）kihirohito氏がデザインしたキャラ、[BARKSちゃん](http://www.barks.jp/news/?id=1000051109)。
 &quot;僕の考えたヴィジュアル系&quot;ってことで、そのBARKSちゃんがカッコいい曲を奏でて、深淵へと呼び招きます。

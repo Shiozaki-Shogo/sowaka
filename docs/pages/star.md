@@ -3,8 +3,6 @@ layout: default
 title: 'あなたも☆になれる'
 ---
 
-## あなたも☆になれる
-
 # あなたも☆になれる
 **[美加みかん](http://d.hatena.ne.jp/mika_mikan/)**さんによりアップされた第二作です。（認知されている限りにおいて）
 kihirohito氏のマイリスト『[袋のままで行く](http://www.nicovideo.jp/mylist/6649531)』に含まれてますが、

@@ -3,8 +3,6 @@ layout: default
 title: '解剖室'
 ---
 
-## 解剖室
-
 # 解剖室
 THE STALINのカバー曲です。原曲のライブ映像は[こちら](http://www.nicovideo.jp/watch/sm2239175)。
 絵は全く動きませんが文字がヌルヌル動き回ります。

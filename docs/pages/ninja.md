@@ -3,8 +3,6 @@ layout: default
 title: '忍者部隊月光'
 ---
 
-## 忍者部隊月光
-
 # 忍者部隊月光（カバー）
 昭和39年から41年にかけてTV放映された『[忍者部隊月光](http://www.youtube.com/watch?v=6QaIyE31TNM)』のオープニングのカバーです。
 初音ミクの拡張パック、[ミクアペンド](http://www.crypton.co.jp/cv01a)を使用した曲をBGMにあの三兄弟が疾駆します。

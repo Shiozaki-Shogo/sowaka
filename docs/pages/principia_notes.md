@@ -3,8 +3,6 @@ layout: default
 title: '妄想神学プリンキピア・注釈'
 ---
 
-## 妄想神学プリンキピア・注釈
-
 # 妄想神学プリンキピア・注釈
 [妄想神学プリンキピア]({{ '/pages/principia.html' | relative_url }})の注釈のページです。
 動画のコメント、[twitter](http://twitter.com/)などを参考にさせていただきました。ありがとうございました。

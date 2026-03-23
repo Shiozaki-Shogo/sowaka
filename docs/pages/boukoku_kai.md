@@ -3,8 +3,6 @@ layout: default
 title: '亡國浪漫 改'
 ---
 
-## 亡國浪漫 改
-
 # 亡國浪漫 改
 あの『[亡國浪漫]({{ '/pages/boukoku.html' | relative_url }})』を鏡音レンACT2を使って再アレンジ！
 動画も何だか妙に凝ってる気が…！？（注釈ページはありません）

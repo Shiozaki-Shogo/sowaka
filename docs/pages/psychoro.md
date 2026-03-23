@@ -3,8 +3,6 @@ layout: default
 title: 'PSYCHO ROMANCE'
 ---
 
-## PSYCHO ROMANCE
-
 # PSYCHO ROMANCE
 2011年の冬コミで発売された地下102階「[亞亞細亞](http://enbankankokai.jimdo.com/%E5%88%8A%E8%A1%8C%E6%A1%88%E5%86%85/)」に収録されている曲のデモ音源に動画をつけたものだそうです。
 曲自体は2010年の5月にpiaproで[1番のみ公開](http://piapro.jp/t/mHPt)されてます。動画化を個人的に長いこと待ってました。わーい。

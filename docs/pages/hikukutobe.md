@@ -3,8 +3,6 @@ layout: default
 title: 'ひくくとべ'
 ---
 
-## ひくくとべ
-
 # ひくくとべ
 久々の『[夢の旧作](http://www.nicovideo.jp/mylist/4414387)』シリーズ、新作です！
 [ご本人がブログで言及されていた「地上５ｃｍを飛んで、歩いてる人のアキレス腱を切る物体の歌」](http://blogs.yahoo.co.jp/sowaka_chan/12125336.html)ですね。

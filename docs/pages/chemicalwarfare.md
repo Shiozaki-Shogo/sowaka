@@ -3,8 +3,6 @@ layout: default
 title: '恋は化学戦争'
 ---
 
-## 恋は化学戦争
-
 # 恋は化学戦争
 [supercell](http://ja.wikipedia.org/wiki/Supercell)の『[恋は戦争](http://www.nicovideo.jp/watch/sm2397344)』と、アメリカのパンクバンド[Dead Kennedys](http://ja.wikipedia.org/wiki/%E3%83%87%E3%83%83%E3%83%89%E3%83%BB%E3%82%B1%E3%83%8D%E3%83%87%E3%82%A3%E3%83%BC%E3%82%BA)の『[Chemical Warfare](http://www.youtube.com/watch?v=nK5fKFFqJe4)』を混ぜた作品だそうです。
 初音ミクの曲のカバーは珍しいですね。

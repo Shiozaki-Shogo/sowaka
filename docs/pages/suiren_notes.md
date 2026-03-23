@@ -3,8 +3,6 @@ layout: default
 title: '睡蓮散る散る月満ちる・注釈'
 ---
 
-## 睡蓮散る散る月満ちる・注釈
-
 # 睡蓮散る散る月満ちる・注釈
 [睡蓮散る散る月満ちる]({{ '/pages/suiren.html' | relative_url }})の注釈のページです。
 動画のコメント、[mixiソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)、[2chソワカちゃんスレ]({{ '/pages/2chlog.html' | relative_url }})、[twitter](http://twitter.com/)などを

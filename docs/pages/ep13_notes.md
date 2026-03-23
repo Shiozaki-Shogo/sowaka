@@ -3,8 +3,6 @@ layout: default
 title: '護法少女ソワカちゃん第１３話・注釈'
 ---
 
-## 護法少女ソワカちゃん第１３話・注釈
-
 # 護法少女ソワカちゃん第１３話・注釈
 [護法少女ソワカちゃん第１３話]({{ '/pages/ep13.html' | relative_url }})の注釈のページです。
 動画のコメント、[mixiソワカちゃんコミュ](http://mixi.jp/view_community.pl?id=2749241)、[2chソワカちゃんスレ]({{ '/pages/2chlog.html' | relative_url }})などを

@@ -3,8 +3,6 @@ layout: default
 title: 'SMI2LE AGAIN'
 ---
 
-## SMI2LE AGAIN
-
 # SMI2LE AGAIN
 やりかけの曲の御蔵出し、「やりかけ曲企画」第二弾です。
 ティモシー・リアリーが1973年にシリウス星人から受信したという『SMISUP{2};LEメッセージ』が今再び！

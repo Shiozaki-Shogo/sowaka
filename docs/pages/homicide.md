@@ -3,8 +3,6 @@ layout: default
 title: 'Home Sweet Homicide'
 ---
 
-## Home Sweet Homicide
-
 # Home Sweet Homicide
 『[夢の旧作](http://www.nicovideo.jp/mylist/4414387)』シリーズ、第８弾！
 愛に包まれた暖かな家庭を歌い上げたハートウォーミングなナンバーです。

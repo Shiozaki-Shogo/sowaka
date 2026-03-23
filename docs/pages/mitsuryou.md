@@ -3,8 +3,6 @@ layout: default
 title: '密猟の夜'
 ---
 
-## 密猟の夜
-
 # 密猟の夜
 使い回しシリーズ『[夢の旧作](http://www.nicovideo.jp/mylist/4414387)』と命名された[kihirohito氏](http://piapro.jp/kihirohito)のオリジナル曲、第２弾！
 今度は

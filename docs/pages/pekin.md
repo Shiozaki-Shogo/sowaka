@@ -3,8 +3,6 @@ layout: default
 title: 'Le Printemps à Pékin'
 ---
 
-## Le Printemps à Pékin
-
 # Le Printemps &#224; P&#233;kin
 タイトルは1978年に萌芽した中国民主化運動「北京の春」のこと。
 その後、1989年の第二次天安門事件をきっかけに民主化運動は大きく後退しました。
