@@ -24,7 +24,7 @@ DVD『[乗の巻](http://www.amazon.co.jp/exec/obidos/ASIN/B0027ZXZIU/sowakasdog
 ★[第１１話]({{ '/pages/ep11.html' | relative_url }})（[注釈]({{ '/pages/ep11_notes.html' | relative_url }})）
 ☆[年末SP]({{ '/pages/xmas.html' | relative_url }})（[注釈]({{ '/pages/xmas_notes.html' | relative_url }})）
 ★[第９話]({{ '/pages/ep9.html' | relative_url }})（[注釈]({{ '/pages/ep9_notes.html' | relative_url }})）
-☆[第１１話feat.C.Y.]({{ '/pages/ep11cy.html' | relative_url }})([注釈]({{ '/' | relative_url }}?%E8%AD%B7%E6%B3%95%E5%B0%91%E5%A5%B3%E3%82%BD%E3%83%AF%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E7%AC%AC%EF%BC%91%EF%BC%91%E8%A9%B1%20%20feat.%20Cool%20Young%E3%83%BB%E6%B3%A8%E9%87%88))
+☆[第１１話feat.C.Y.]({{ '/pages/ep11cy.html' | relative_url }})([注釈](http://sowaka.s-dog.net/?%E8%AD%B7%E6%B3%95%E5%B0%91%E5%A5%B3%E3%82%BD%E3%83%AF%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E7%AC%AC%EF%BC%91%EF%BC%91%E8%A9%B1%20%20feat.%20Cool%20Young%E3%83%BB%E6%B3%A8%E9%87%88))
 ◆[そんなところに…]({{ '/pages/sonnna.html' | relative_url }})（[注釈]({{ '/pages/sonnna_notes.html' | relative_url }})）
 ☆[再生と法滅の…]({{ '/pages/saisei.html' | relative_url }})（[注釈]({{ '/pages/saisei_notes.html' | relative_url }})）
 ◆[密猟の夜]({{ '/pages/mitsuryou.html' | relative_url }})
@@ -110,7 +110,6 @@ DVD『[乗の巻](http://www.amazon.co.jp/exec/obidos/ASIN/B0027ZXZIU/sowakasdog
 ◎：バルドソドル
 
 **関連情報**
-[キャラクター紹介]({{ '/pages/character.html' | relative_url }})
 [信徒のページ]({{ '/pages/believer.html' | relative_url }})
 [ソワカレンダー]({{ '/pages/calendar.html' | relative_url }})
 [過去ログ保管庫]({{ '/pages/2chlog.html' | relative_url }})

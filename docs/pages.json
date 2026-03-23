@@ -78,12 +78,6 @@
         "RelMdPath":  "pages/nensyuu.md"
     },
     {
-        "Title":  "キャラクター紹介",
-        "Base":  "E382ADE383A3E383A9E382AFE382BFE383BCE7B4B9E4BB8B",
-        "Slug":  "character",
-        "RelMdPath":  "pages/character.md"
-    },
-    {
         "Title":  "コードネームは赤い数珠　護法少女ソワカちゃん",
         "Base":  "E382B3E383BCE38389E3838DE383BCE383A0E381AFE8B5A4E38184E695B0E78FA0E38080E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293",
         "Slug":  "codename",
@@ -314,8 +308,8 @@
     {
         "Title":  "護法少女ソワカちゃん第１１話  feat. Cool Young・注釈",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC91E8A9B12020666561742E20436F6F6C20596F756E67E383BBE6B3A8E98788",
-        "Slug":  "11-feat.-cool-young",
-        "RelMdPath":  "pages/11-feat.-cool-young.md"
+        "Slug":  "ep11cy_notes",
+        "RelMdPath":  "pages/ep11cy_notes.md"
     },
     {
         "Title":  "護法少女ソワカちゃん第１１話 feat. Cool Young",

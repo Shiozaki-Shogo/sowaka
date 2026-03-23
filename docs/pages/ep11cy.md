@@ -77,4 +77,4 @@ title: '護法少女ソワカちゃん第１１話 feat. Cool Young'
 やっぱりそれを押すのはオレかよ
 
 ## 注釈
-由来・元ネタに興味のある方は[護法少女ソワカちゃん第１１話 feat. Cool Young・注釈]({{ '/' | relative_url }}?%E8%AD%B7%E6%B3%95%E5%B0%91%E5%A5%B3%E3%82%BD%E3%83%AF%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E7%AC%AC%EF%BC%91%EF%BC%91%E8%A9%B1%20%20feat.%20Cool%20Young%E3%83%BB%E6%B3%A8%E9%87%88)をご覧下さい。
+由来・元ネタに興味のある方は[護法少女ソワカちゃん第１１話 feat. Cool Young・注釈](http://sowaka.s-dog.net/?%E8%AD%B7%E6%B3%95%E5%B0%91%E5%A5%B3%E3%82%BD%E3%83%AF%E3%82%AB%E3%81%A1%E3%82%83%E3%82%93%E7%AC%AC%EF%BC%91%EF%BC%91%E8%A9%B1%20%20feat.%20Cool%20Young%E3%83%BB%E6%B3%A8%E9%87%88)をご覧下さい。

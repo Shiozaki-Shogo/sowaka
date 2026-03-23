@@ -43,6 +43,14 @@ function To-AsciiSlug {
   return $norm
 }
 
+function Normalize-TitleForMatch {
+  param([string]$Text)
+  if ($null -eq $Text) { return "" }
+  $t = $Text.Normalize([Text.NormalizationForm]::FormKC)
+  $t = $t -replace "[\s\u3000]+", ""
+  return $t
+}
+
 function Load-Dat2chIndex {
   param([string]$SourceRootDir)
   $map = @{}
@@ -296,7 +304,7 @@ function Rewrite-LegacySiteLinks {
   })
   $text = [regex]::Replace($text, '\(https?://sowaka\.s-dog\.net/\)', "({{ '/' | relative_url }})")
   $text = [regex]::Replace($text, 'href="https?://sowaka\.s-dog\.net/"', 'href="{{ ''/'' | relative_url }}"')
-  $text = [regex]::Replace($text, 'https?://sowaka\.s-dog\.net/', "{{ '/' | relative_url }}")
+  $text = [regex]::Replace($text, '\[[^\]]+\]\(https?://sowaka\.s-dog\.net/character\.html\)', 'character')
   return $text
 }
 
@@ -416,6 +424,7 @@ function Render-Body {
 
     if ($line -match "^#(analog|counter|comment(?:_kcaptcha)?|search2chdat|search|recent|calendar|navi|ls2?|p?comment|article|tracker|dat2ch)\b") { continue }
     if ($line -match "^#contents" -or $line -match "^#norelated" -or $line -match "^#nofollow") { continue }
+    if ($line -match "character\.html") { continue }
 
     if ($line -match "^#ref\((.+)\)\s*$") {
       Close-Blocks ([ref]$sb) ([ref]$inUl) ([ref]$inOl) ([ref]$inTable)
@@ -523,7 +532,7 @@ New-Item -ItemType Directory -Force -Path $pageDir | Out-Null
 $layoutDir = Join-Path $OutputDir "_layouts"
 New-Item -ItemType Directory -Force -Path $layoutDir | Out-Null
 
-$assetDirs = @("image", "photo", "mp3", "character")
+$assetDirs = @("image", "photo")
 foreach ($d in $assetDirs) {
   $src = Join-Path $SourceRoot $d
   if (Test-Path $src) { Copy-Item -Recurse -Force -Path $src -Destination (Join-Path $OutputDir $d) }
@@ -546,15 +555,25 @@ $excludedPagePatterns = @(
   "^WikiWikiWeb$",
   "^PHP$",
   "^SandBox$",
-  "^2chdat$"
+  "^2chdat$",
+  "^キャラクター紹介$"
+)
+$excludedPageBases = @(
+  "E382ADE383A3E383A9E382AFE382BFE383BCE7B4B9E4BB8B"
 )
 
 $aliasByPage = Load-RewriteMapAliases -SourceRootDir $SourceRoot
+$aliasByPageNormalized = @{}
+foreach ($k in $aliasByPage.Keys) {
+  $nk = Normalize-TitleForMatch $k
+  if ($nk -ne "") { $aliasByPageNormalized[$nk] = $aliasByPage[$k] }
+}
 $dat2chMap = Load-Dat2chIndex -SourceRootDir $SourceRoot
 $pages = @()
 $usedSlugs = @{}
 $slugOverridesByBase = @{
   "E382BDE383AFE382ABE381A1E38283E38293E7968FE98894" = "sowaka-shosho"
+  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC91E8A9B12020666561742E20436F6F6C20596F756E67E383BBE6B3A8E98788" = "ep11cy_notes"
 }
 
 Get-ChildItem -Path $sourceWiki -File -Filter "*.txt" | ForEach-Object {
@@ -562,6 +581,9 @@ Get-ChildItem -Path $sourceWiki -File -Filter "*.txt" | ForEach-Object {
   $title = Decode-HexPageName $base
 
   $excluded = $false
+  if ($excludedPageBases -contains $base.ToUpperInvariant()) {
+    $excluded = $true
+  }
   foreach ($pattern in $excludedPagePatterns) {
     if ($title -match $pattern) { $excluded = $true; break }
   }
@@ -573,6 +595,12 @@ Get-ChildItem -Path $sourceWiki -File -Filter "*.txt" | ForEach-Object {
   }
   if ([string]::IsNullOrWhiteSpace($slug) -and $aliasByPage.ContainsKey($title)) {
     $slug = To-AsciiSlug $aliasByPage[$title]
+  }
+  if ([string]::IsNullOrWhiteSpace($slug)) {
+    $normalizedTitle = Normalize-TitleForMatch $title
+    if ($aliasByPageNormalized.ContainsKey($normalizedTitle)) {
+      $slug = To-AsciiSlug $aliasByPageNormalized[$normalizedTitle]
+    }
   }
   if ([string]::IsNullOrWhiteSpace($slug)) {
     $slug = To-AsciiSlug $title
