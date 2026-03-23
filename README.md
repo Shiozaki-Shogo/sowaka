@@ -1,30 +1,32 @@
 # sowaka
 
-旧 PukiWiki サイトを GitHub Pages で公開するための静的アーカイブです。
+`sowaka` は、GitHub Pages で公開している静的サイトです。  
+サイト本体は `docs/` 配下にあり、Markdown を直接編集して更新します。
 
-## 1. 運用方針
+## 使い方（最短）
 
-PukiWiki からの変換作業は完了済みです。  
-今後は `docs/` 配下を直接編集して運用します（再変換スクリプトは廃止）。
+1. `docs/index.md` または `docs/pages/*.md` を編集
+2. 画像が必要なら `docs/photo/` または `docs/image/` に追加
+3. ブランチを切ってコミットし、Pull Request を作成
+4. `main` にマージすると GitHub Pages に反映
 
-## 2. 出力されるもの
+## ディレクトリ構成
 
-- `docs/index.md`: トップページ（Jekyll で `index.html` として公開）
-- `docs/pages/*.md`: 各ページ（Jekyll で `.html` 化）
-- `docs/_layouts/default.html`: レイアウト
-- `docs/image`, `docs/photo`: 静的アセット
-- `docs/pages.json`: ページ一覧メタデータ
+- `docs/index.md` : トップページ
+- `docs/pages/*.md` : 各コンテンツページ
+- `docs/_layouts/default.html` : 共通レイアウト
+- `docs/styles.css` : 共通スタイル
+- `docs/photo`, `docs/image` : 画像アセット
+- `docs/pages.json` : ページ一覧メタデータ
 
-## 3. GitHub Pages 設定
+## 公開設定（GitHub Pages）
 
-GitHub リポジトリ設定で以下を指定します。
+GitHub リポジトリの `Settings -> Pages` で以下を設定します。
 
-- `Settings` -> `Pages`
-- `Build and deployment` -> `Source`: `Deploy from a branch`
+- `Source`: `Deploy from a branch`
 - `Branch`: `main` / `/docs`
 
-## 4. 共同編集の推奨設定
+## 注意
 
-- `Settings` -> `Collaborators` でメンバー追加
-- `Settings` -> `Branches` で `main` 保護
-- Pull Request 必須、直接 push を制限
+- 変換スクリプトは廃止済みです。`docs/` を直接編集してください。
+- URL変更を避けるため、ページファイル名は既存のものを基本的に維持してください。
