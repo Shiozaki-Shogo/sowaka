@@ -9,11 +9,18 @@
 <body>
   <header class="site-header">
     <div class="wrap">
-      <h1><a href="{{ '/' | relative_url }}">sowaka archive</a></h1>
+      <h1>sowaka archive</h1>
       <p>Static archive converted from legacy PukiWiki</p>
     </div>
   </header>
   <main class="wrap">
+    {% if page.url != "/" %}
+    <nav class="breadcrumb" aria-label="パンくず">
+      <a href="{{ '/' | relative_url }}">トップ</a>
+      <span class="breadcrumb-sep">/</span>
+      <span aria-current="page">{{ page.title }}</span>
+    </nav>
+    {% endif %}
     {{ content }}
   </main>
 </body>
