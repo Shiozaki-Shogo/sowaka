@@ -384,6 +384,18 @@
         "RelMdPath":  "pages/ep16_notes.md"
     },
     {
+        "Title":  "護法少女ソワカちゃん第１７話",
+        "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC97E8A9B1",
+        "Slug":  "ep17",
+        "RelMdPath":  "pages/ep17.md"
+    },
+    {
+        "Title":  "護法少女ソワカちゃん第１７話・注釈",
+        "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91EFBC97E8A9B1E383BBE6B3A8E98788",
+        "Slug":  "ep17_notes",
+        "RelMdPath":  "pages/ep17_notes.md"
+    },
+    {
         "Title":  "護法少女ソワカちゃん第１話（その１）",
         "Base":  "E8ADB7E6B395E5B091E5A5B3E382BDE383AFE382ABE381A1E38283E38293E7ACACEFBC91E8A9B1EFBC88E3819DE381AEEFBC91EFBC89",
         "Slug":  "ep1-1",
