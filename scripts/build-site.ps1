@@ -523,7 +523,7 @@ New-Item -ItemType Directory -Force -Path $pageDir | Out-Null
 $layoutDir = Join-Path $OutputDir "_layouts"
 New-Item -ItemType Directory -Force -Path $layoutDir | Out-Null
 
-$assetDirs = @("attach", "image", "photo", "mp3", "character")
+$assetDirs = @("image", "photo", "mp3", "character")
 foreach ($d in $assetDirs) {
   $src = Join-Path $SourceRoot $d
   if (Test-Path $src) { Copy-Item -Recurse -Force -Path $src -Destination (Join-Path $OutputDir $d) }
