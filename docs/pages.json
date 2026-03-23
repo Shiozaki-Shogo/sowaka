@@ -1,103 +1,13 @@
 ﻿[
     {
-        "Title":  ":config",
-        "Base":  "3A636F6E666967",
-        "RelPath":  "pages/3a636f6e666967.html"
-    },
-    {
-        "Title":  ":config/PageReading",
-        "Base":  "3A636F6E6669672F5061676552656164696E67",
-        "RelPath":  "pages/3a636f6e6669672f5061676552656164696e67.html"
-    },
-    {
-        "Title":  ":config/PageReading/dict",
-        "Base":  "3A636F6E6669672F5061676552656164696E672F64696374",
-        "RelPath":  "pages/3a636f6e6669672f5061676552656164696e672f64696374.html"
-    },
-    {
-        "Title":  ":config/plugin",
-        "Base":  "3A636F6E6669672F706C7567696E",
-        "RelPath":  "pages/3a636f6e6669672f706c7567696e.html"
-    },
-    {
-        "Title":  ":config/plugin/attach/mime-type",
-        "Base":  "3A636F6E6669672F706C7567696E2F6174746163682F6D696D652D74797065",
-        "RelPath":  "pages/3a636f6e6669672f706c7567696e2f6174746163682f6d696d652d74797065.html"
-    },
-    {
-        "Title":  ":config/plugin/referer/config",
-        "Base":  "3A636F6E6669672F706C7567696E2F726566657265722F636F6E666967",
-        "RelPath":  "pages/3a636f6e6669672f706c7567696e2f726566657265722f636f6e666967.html"
-    },
-    {
-        "Title":  ":config/plugin/tracker",
-        "Base":  "3A636F6E6669672F706C7567696E2F747261636B6572",
-        "RelPath":  "pages/3a636f6e6669672f706c7567696e2f747261636b6572.html"
-    },
-    {
-        "Title":  ":config/plugin/tracker/default",
-        "Base":  "3A636F6E6669672F706C7567696E2F747261636B65722F64656661756C74",
-        "RelPath":  "pages/3a636f6e6669672f706c7567696e2f747261636b65722f64656661756c74.html"
-    },
-    {
-        "Title":  ":config/plugin/tracker/default/form",
-        "Base":  "3A636F6E6669672F706C7567696E2F747261636B65722F64656661756C742F666F726D",
-        "RelPath":  "pages/3a636f6e6669672f706c7567696e2f747261636b65722f64656661756c742f666f726d.html"
-    },
-    {
-        "Title":  ":config/plugin/tracker/default/list",
-        "Base":  "3A636F6E6669672F706C7567696E2F747261636B65722F64656661756C742F6C697374",
-        "RelPath":  "pages/3a636f6e6669672f706c7567696e2f747261636b65722f64656661756c742f6c697374.html"
-    },
-    {
-        "Title":  ":config/plugin/tracker/default/page",
-        "Base":  "3A636F6E6669672F706C7567696E2F747261636B65722F64656661756C742F70616765",
-        "RelPath":  "pages/3a636f6e6669672f706c7567696e2f747261636b65722f64656661756c742f70616765.html"
-    },
-    {
-        "Title":  ":config/Redirect",
-        "Base":  "3A636F6E6669672F5265646972656374",
-        "RelPath":  "pages/3a636f6e6669672f5265646972656374.html"
-    },
-    {
-        "Title":  ":config/RewriteMap",
-        "Base":  "3A636F6E6669672F526577726974654D6170",
-        "RelPath":  "pages/3a636f6e6669672f526577726974654d6170.html"
-    },
-    {
-        "Title":  ":RenameLog",
-        "Base":  "3A52656E616D654C6F67",
-        "RelPath":  "pages/3a52656e616d654c6f67.html"
-    },
-    {
         "Title":  "【歌ってみた】千々石ミゲル友の会のテーマ",
         "Base":  "E38090E6AD8CE381A3E381A6E381BFE3819FE38091E58D83E38085E79FB3E3839FE382B2E383ABE58F8BE381AEE4BC9AE381AEE38386E383BCE3839E",
         "RelPath":  "pages/e38090e6ad8ce381a3e381a6e381bfe3819fe38091e58d83e38085e79fb3e3839fe382b2e383abe58f8be381aee4bc9ae381aee38386e383bce3839e.html"
     },
     {
-        "Title":  "2chdat",
-        "Base":  "326368646174",
-        "RelPath":  "pages/326368646174.html"
-    },
-    {
         "Title":  "Bamboo Blossoms",
         "Base":  "42616D626F6F20426C6F73736F6D73",
         "RelPath":  "pages/42616d626f6f20426c6f73736f6d73.html"
-    },
-    {
-        "Title":  "BracketName",
-        "Base":  "427261636B65744E616D65",
-        "RelPath":  "pages/427261636b65744e616d65.html"
-    },
-    {
-        "Title":  "FormattingRules",
-        "Base":  "466F726D617474696E6752756C6573",
-        "RelPath":  "pages/466f726d617474696e6752756c6573.html"
-    },
-    {
-        "Title":  "Help",
-        "Base":  "48656C70",
-        "RelPath":  "pages/48656c70.html"
     },
     {
         "Title":  "Home Sweet Homicide",
@@ -108,21 +18,6 @@
         "Title":  "ＩＮＧＥ ～謎に包まれた生命体～",
         "Base":  "EFBCA9EFBCAEEFBCA7EFBCA520EFBD9EE8AC8EE381ABE58C85E381BEE3828CE3819FE7949FE591BDE4BD93EFBD9E",
         "RelPath":  "pages/efbca9efbcaeefbca7efbca520efbd9ee8ac8ee381abe58c85e381bee3828ce3819fe7949fe591bde4bd93efbd9e.html"
-    },
-    {
-        "Title":  "InterWiki",
-        "Base":  "496E74657257696B69",
-        "RelPath":  "pages/496e74657257696b69.html"
-    },
-    {
-        "Title":  "InterWikiName",
-        "Base":  "496E74657257696B694E616D65",
-        "RelPath":  "pages/496e74657257696b694e616d65.html"
-    },
-    {
-        "Title":  "InterWikiSandBox",
-        "Base":  "496E74657257696B6953616E64426F78",
-        "RelPath":  "pages/496e74657257696b6953616e64426f78.html"
     },
     {
         "Title":  "Le Printemps à Pékin",
@@ -140,104 +35,14 @@
         "RelPath":  "pages/4e657665722050726f6d69736564204c616e64.html"
     },
     {
-        "Title":  "PHP",
-        "Base":  "504850",
-        "RelPath":  "pages/504850.html"
-    },
-    {
         "Title":  "PSYCHO ROMANCE",
         "Base":  "50535943484F20524F4D414E4345",
         "RelPath":  "pages/50535943484f20524f4d414e4345.html"
     },
     {
-        "Title":  "PukiWiki",
-        "Base":  "50756B6957696B69",
-        "RelPath":  "pages/50756b6957696b69.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4",
-        "Base":  "50756B6957696B692F312E34",
-        "RelPath":  "pages/50756b6957696b692f312e34.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual/Plugin",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C2F506C7567696E",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c2f506c7567696e.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual/Plugin/A-D",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C2F506C7567696E2F412D44",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c2f506c7567696e2f412d44.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual/Plugin/E-G",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C2F506C7567696E2F452D47",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c2f506c7567696e2f452d47.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual/Plugin/H-K",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C2F506C7567696E2F482D4B",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c2f506c7567696e2f482d4b.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual/Plugin/L-N",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C2F506C7567696E2F4C2D4E",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c2f506c7567696e2f4c2d4e.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual/Plugin/O-R",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C2F506C7567696E2F4F2D52",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c2f506c7567696e2f4f2d52.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual/Plugin/S-U",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C2F506C7567696E2F532D55",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c2f506c7567696e2f532d55.html"
-    },
-    {
-        "Title":  "PukiWiki/1.4/Manual/Plugin/V-Z",
-        "Base":  "50756B6957696B692F312E342F4D616E75616C2F506C7567696E2F562D5A",
-        "RelPath":  "pages/50756b6957696b692f312e342f4d616e75616c2f506c7567696e2f562d5a.html"
-    },
-    {
-        "Title":  "RecentChanges",
-        "Base":  "526563656E744368616E676573",
-        "RelPath":  "pages/526563656e744368616e676573.html"
-    },
-    {
-        "Title":  "RecentDeleted",
-        "Base":  "526563656E7444656C65746564",
-        "RelPath":  "pages/526563656e7444656c65746564.html"
-    },
-    {
-        "Title":  "SandBox",
-        "Base":  "53616E64426F78",
-        "RelPath":  "pages/53616e64426f78.html"
-    },
-    {
         "Title":  "SMI2LE AGAIN",
         "Base":  "534D49324C4520414741494E",
         "RelPath":  "pages/534d49324c4520414741494e.html"
-    },
-    {
-        "Title":  "WikiEngines",
-        "Base":  "57696B69456E67696E6573",
-        "RelPath":  "pages/57696b69456e67696e6573.html"
-    },
-    {
-        "Title":  "WikiName",
-        "Base":  "57696B694E616D65",
-        "RelPath":  "pages/57696b694e616d65.html"
-    },
-    {
-        "Title":  "WikiWikiWeb",
-        "Base":  "57696B6957696B69576562",
-        "RelPath":  "pages/57696b6957696b69576562.html"
     },
     {
         "Title":  "あなたも☆になれる",

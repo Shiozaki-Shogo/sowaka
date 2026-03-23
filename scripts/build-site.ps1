@@ -1,6 +1,7 @@
 param(
   [string]$SourceRoot = "..",
-  [string]$OutputDir = "docs"
+  [string]$OutputDir = "docs",
+  [string]$LandingPageRelPath = "pages/e382bde383afe382abe381a1e38283e38293e7968fe98894.html"
 )
 
 Set-StrictMode -Version Latest
@@ -182,10 +183,39 @@ foreach ($d in $assetDirs) {
 
 $pages = @()
 $pageMap = @{}
+$excludedPagePatterns = @(
+  "^:config(?:/|$)",
+  "^:RenameLog$",
+  "^BracketName$",
+  "^FormattingRules$",
+  "^Help$",
+  "^PukiWiki(?:/|$)",
+  "^InterWiki$",
+  "^InterWikiName$",
+  "^InterWikiSandBox$",
+  "^RecentChanges$",
+  "^RecentDeleted$",
+  "^WikiEngines$",
+  "^WikiName$",
+  "^WikiWikiWeb$",
+  "^PHP$",
+  "^SandBox$",
+  "^2chdat$"
+)
 
 Get-ChildItem -Path $sourceWiki -File -Filter "*.txt" | ForEach-Object {
   $base = $_.BaseName
   $title = Decode-HexPageName $base
+  $excluded = $false
+  foreach ($pattern in $excludedPagePatterns) {
+    if ($title -match $pattern) {
+      $excluded = $true
+      break
+    }
+  }
+  if ($excluded) {
+    return
+  }
   $slug = ($base.ToLowerInvariant()) + ".html"
   $rel = "pages/" + $slug
   $pageMap[$title] = $rel
@@ -242,7 +272,16 @@ $items = $pages | ForEach-Object {
 }
 $listItems = ($items -join "`n")
 
-$indexBody = @"
+[array]$landing = $pages | Where-Object { $_.RelPath -eq $LandingPageRelPath } | Select-Object -First 1
+
+if ($landing.Count -eq 1) {
+  $landingLines = [System.IO.File]::ReadAllLines($landing[0].SourcePath, [System.Text.Encoding]::UTF8)
+  $landingBodyHtml = Render-Body $landingLines $pageMap
+  $indexBody = @"
+<article>
+  <h2>$([System.Net.WebUtility]::HtmlEncode($landing[0].Title))</h2>
+  $landingBodyHtml
+</article>
 <section>
   <h2>Pages</h2>
   <p>Total: $($pages.Count) pages</p>
@@ -251,8 +290,21 @@ $listItems
   </ul>
 </section>
 "@
+  $indexTitle = "$($landing[0].Title) | sowaka archive"
+} else {
+  $indexBody = @"
+<section>
+  <h2>Pages</h2>
+  <p>Total: $($pages.Count) pages</p>
+  <ul class="page-list">
+$listItems
+  </ul>
+</section>
+"@
+  $indexTitle = "sowaka archive"
+}
 
-$indexHtml = $templateHeader.Replace("__TITLE__", "sowaka archive").Replace("__CSS__", "styles.css").Replace("__HOME__", "index.html") + $indexBody + $templateFooter
+$indexHtml = $templateHeader.Replace("__TITLE__", [System.Net.WebUtility]::HtmlEncode($indexTitle)).Replace("__CSS__", "styles.css").Replace("__HOME__", "index.html") + $indexBody + $templateFooter
 [System.IO.File]::WriteAllText((Join-Path $OutputDir "index.html"), $indexHtml, [System.Text.Encoding]::UTF8)
 
 $styles = @'
