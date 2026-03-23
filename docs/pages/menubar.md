@@ -96,6 +96,7 @@ DVD『[乗の巻](http://www.amazon.co.jp/exec/obidos/ASIN/B0027ZXZIU/sowakasdog
 ◇[PSYCHO ROMANCE]({{ '/pages/psychoro.html' | relative_url }})
 ◇[延命]({{ '/pages/enmei.html' | relative_url }})<span style="color:#FF0000;">**NEW**</span>
 ★[第１６話]({{ '/pages/ep16.html' | relative_url }})（[注釈]({{ '/pages/ep16_notes.html' | relative_url }})）
+★[第１７話]({{ '/pages/ep17.html' | relative_url }})（[注釈]({{ '/pages/ep17_notes.html' | relative_url }})）
 ◇[ステルラ・トランスウォランス]({{ '/pages/stellat_ransvolans.html' | relative_url }})<span style="color:#FF0000;">**NEW**</span>
 △[さよならワールド世界]({{ '/pages/goodbye_world.html' | relative_url }})<span style="color:#FF0000;">**NEW**</span>
 ◎[CORN☆SWEET状態]({{ '/pages/corn_sweet.html' | relative_url }})<span style="color:#FF0000;">**NEW**</span>
