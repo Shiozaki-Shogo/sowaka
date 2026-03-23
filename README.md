@@ -2,19 +2,17 @@
 
 旧 PukiWiki サイトを GitHub Pages で公開するための静的アーカイブです。
 
-## 1. 変換を実行
+## 1. 運用方針
 
-このリポジトリの 1 つ上の階層に旧サイト一式（`wiki/`, `attach/`, `photo/` など）がある前提です。
-
-```powershell
-powershell -ExecutionPolicy Bypass -File .\scripts\build-site.ps1 -SourceRoot .. -OutputDir docs
-```
+PukiWiki からの変換作業は完了済みです。  
+今後は `docs/` 配下を直接編集して運用します（再変換スクリプトは廃止）。
 
 ## 2. 出力されるもの
 
-- `docs/index.html`: トップページ
-- `docs/pages/*.html`: 各ページ
-- `docs/attach`, `docs/image`, `docs/photo`, `docs/mp3`: 静的アセット
+- `docs/index.md`: トップページ（Jekyll で `index.html` として公開）
+- `docs/pages/*.md`: 各ページ（Jekyll で `.html` 化）
+- `docs/_layouts/default.html`: レイアウト
+- `docs/image`, `docs/photo`: 静的アセット
 - `docs/pages.json`: ページ一覧メタデータ
 
 ## 3. GitHub Pages 設定
